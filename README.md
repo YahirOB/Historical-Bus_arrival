@@ -46,11 +46,10 @@ python buses.py
 
 ```
 
-*Nota: Asegúrese de que el archivo de datos `llegada_autobuses.csv` se encuentre dentro de la carpeta `data/` en la raíz del proyecto para una correcta ingesta de información.*
+*Nota: Asegúrese de que el archivo de datos `llegada_autobuses.csv` se encuentre dentro de la carpeta `data/`  para que no haya tema de que no encuentra los datos*
 
 ## EJEMPLO DE RESULTADOS
-
-El sistema ha sido validado con datos históricos Reales , arrojando los siguientes resultados en el módulo de detección de congestión:
+Calcula medidas de promedio y estandarización de los datos históricos para normalizar los registros de llegada y asegurar la consistencia en el análisis de las variables ambientales. A través de este procesamiento estadístico, el sistema determina el promedio de retrasos por día y evalúa el impacto del clima en la puntualidad del servicio, permitiendo una comparación técnica entre diferentes escenarios operativos.
 
 * **Día de mayor congestión**: Sábado.
 * **Retraso promedio máximo**: 13.74 minutos.
