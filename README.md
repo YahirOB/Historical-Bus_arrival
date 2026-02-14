@@ -69,3 +69,5 @@ Calcula medidas de promedio y estandarización de los datos históricos para nor
 * **Yahir Ortiz** - Estudiante de Ingeniería en Inteligencia Artificial, ESCOM-IPN.
 
 ---
+<img width="1165" height="656" alt="image" src="https://github.com/user-attachments/assets/eb482be7-d83e-4607-bacb-c070da4979f3" />
+
