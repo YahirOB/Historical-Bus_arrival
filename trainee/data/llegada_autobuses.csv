@@ -1,0 +1,496 @@
+id_camion,fecha,dia_semana,tipo_dia,hora_programada,hora_llegada,retraso_minutos,clima,precipitacion_mm,temperatura_c,humedad_porcentaje,viento_kmh,capacidad_pasajeros,pasajeros_abordo,ocupacion_porcentaje,ruta,velocidad_promedio_kmh,duracion_viaje_minutos,nivel_congestion,hora_pico
+CAM0001,2025-01-06,Lunes,Laboral,05:00,05:01,1,Soleado,0.0,18.4,57,9.9,71,23,32.4,Ruta Principal,38.5,43,Bajo,No
+CAM0002,2025-01-06,Lunes,Laboral,05:15,05:15,0,Soleado,0.0,18.4,57,9.9,66,43,65.2,Ruta Principal,25.6,27,Bajo,No
+CAM0003,2025-01-06,Lunes,Laboral,05:30,05:31,1,Soleado,0.0,18.4,57,9.9,55,29,52.7,Ruta Principal,37.0,43,Bajo,No
+CAM0004,2025-01-06,Lunes,Laboral,05:45,05:46,1,Soleado,0.0,18.4,57,9.9,70,51,72.9,Ruta Principal,33.4,40,Bajo,No
+CAM0005,2025-01-06,Lunes,Laboral,06:00,06:16,16,Soleado,0.0,18.4,57,9.9,48,36,75.0,Ruta Principal,18.4,51,Alto,Sí
+CAM0006,2025-01-06,Lunes,Laboral,06:15,06:31,16,Soleado,0.0,18.4,57,9.9,52,39,75.0,Ruta Principal,21.5,51,Alto,Sí
+CAM0007,2025-01-06,Lunes,Laboral,06:30,06:41,11,Soleado,0.0,18.4,57,9.9,50,44,88.0,Ruta Principal,11.2,47,Alto,Sí
+CAM0008,2025-01-06,Lunes,Laboral,06:45,07:01,16,Soleado,0.0,18.4,57,9.9,49,45,91.8,Ruta Principal,16.4,53,Alto,Sí
+CAM0009,2025-01-06,Lunes,Laboral,07:00,07:10,10,Soleado,0.0,18.4,57,9.9,65,51,78.5,Ruta Principal,20.0,54,Alto,Sí
+CAM0010,2025-01-06,Lunes,Laboral,07:15,07:34,19,Soleado,0.0,18.4,57,9.9,66,48,72.7,Ruta Principal,18.5,45,Alto,Sí
+CAM0011,2025-01-06,Lunes,Laboral,07:30,07:45,15,Soleado,0.0,18.4,57,9.9,72,55,76.4,Ruta Principal,21.8,47,Alto,Sí
+CAM0012,2025-01-06,Lunes,Laboral,07:45,07:56,11,Soleado,0.0,18.4,57,9.9,60,47,78.3,Ruta Principal,15.4,47,Alto,Sí
+CAM0013,2025-01-06,Lunes,Laboral,08:00,08:13,13,Soleado,0.0,18.4,57,9.9,59,49,83.1,Ruta Principal,12.5,46,Alto,Sí
+CAM0014,2025-01-06,Lunes,Laboral,08:15,08:25,10,Soleado,0.0,18.4,57,9.9,67,63,94.0,Ruta Principal,12.1,42,Alto,Sí
+CAM0015,2025-01-06,Lunes,Laboral,08:30,08:43,13,Soleado,0.0,18.4,57,9.9,62,52,83.9,Ruta Principal,13.2,58,Alto,Sí
+CAM0016,2025-01-06,Lunes,Laboral,08:45,09:10,25,Soleado,0.0,18.4,57,9.9,55,45,81.8,Ruta Principal,20.1,51,Alto,Sí
+CAM0017,2025-01-06,Lunes,Laboral,09:00,09:15,15,Soleado,0.0,18.4,57,9.9,49,41,83.7,Ruta Principal,14.8,42,Alto,Sí
+CAM0018,2025-01-06,Lunes,Laboral,09:15,09:29,14,Soleado,0.0,18.4,57,9.9,66,64,97.0,Ruta Principal,13.8,59,Alto,Sí
+CAM0019,2025-01-06,Lunes,Laboral,09:30,09:53,23,Soleado,0.0,18.4,57,9.9,60,59,98.3,Ruta Principal,15.5,56,Alto,Sí
+CAM0020,2025-01-06,Lunes,Laboral,09:45,09:57,12,Soleado,0.0,18.4,57,9.9,55,52,94.5,Ruta Principal,16.5,55,Alto,Sí
+CAM0021,2025-01-06,Lunes,Laboral,10:00,10:21,21,Soleado,0.0,18.4,57,9.9,66,54,81.8,Ruta Principal,14.3,50,Alto,Sí
+CAM0022,2025-01-06,Lunes,Laboral,10:15,10:39,24,Soleado,0.0,18.4,57,9.9,63,42,66.7,Ruta Principal,19.1,52,Alto,Sí
+CAM0023,2025-01-06,Lunes,Laboral,10:30,10:42,12,Soleado,0.0,18.4,57,9.9,68,49,72.1,Ruta Principal,19.5,50,Alto,Sí
+CAM0024,2025-01-06,Lunes,Laboral,10:45,10:55,10,Soleado,0.0,18.4,57,9.9,60,51,85.0,Ruta Principal,17.2,49,Alto,Sí
+CAM0025,2025-01-06,Lunes,Laboral,11:00,11:07,7,Soleado,0.0,18.4,57,9.9,65,16,24.6,Ruta Principal,25.2,35,Medio,No
+CAM0026,2025-01-06,Lunes,Laboral,11:15,11:22,7,Soleado,0.0,18.4,57,9.9,72,39,54.2,Ruta Principal,16.7,45,Medio,No
+CAM0027,2025-01-06,Lunes,Laboral,11:30,11:35,5,Soleado,0.0,18.4,57,9.9,62,15,24.2,Ruta Principal,29.3,38,Medio,No
+CAM0028,2025-01-06,Lunes,Laboral,11:45,11:50,5,Soleado,0.0,18.4,57,9.9,64,22,34.4,Ruta Principal,28.1,39,Medio,No
+CAM0029,2025-01-06,Lunes,Laboral,12:00,12:06,6,Soleado,0.0,18.4,57,9.9,52,24,46.2,Ruta Principal,26.4,48,Medio,No
+CAM0030,2025-01-06,Lunes,Laboral,12:15,12:18,3,Soleado,0.0,18.4,57,9.9,67,36,53.7,Ruta Principal,22.3,31,Medio,No
+CAM0031,2025-01-06,Lunes,Laboral,12:30,12:38,8,Soleado,0.0,18.4,57,9.9,57,21,36.8,Ruta Principal,15.9,51,Medio,No
+CAM0032,2025-01-06,Lunes,Laboral,12:45,12:49,4,Soleado,0.0,18.4,57,9.9,50,35,70.0,Ruta Principal,22.3,31,Medio,No
+CAM0033,2025-01-06,Lunes,Laboral,13:00,13:05,5,Soleado,0.0,18.4,57,9.9,52,34,65.4,Ruta Principal,22.1,47,Medio,No
+CAM0034,2025-01-06,Lunes,Laboral,13:15,13:20,5,Soleado,0.0,18.4,57,9.9,56,30,53.6,Ruta Principal,28.1,43,Medio,No
+CAM0035,2025-01-06,Lunes,Laboral,13:30,13:36,6,Soleado,0.0,18.4,57,9.9,65,28,43.1,Ruta Principal,25.7,43,Medio,No
+CAM0036,2025-01-06,Lunes,Laboral,13:45,13:53,8,Soleado,0.0,18.4,57,9.9,62,43,69.4,Ruta Principal,16.8,40,Medio,No
+CAM0037,2025-01-06,Lunes,Laboral,14:00,14:04,4,Soleado,0.0,18.4,57,9.9,58,14,24.1,Ruta Principal,23.8,36,Medio,No
+CAM0038,2025-01-06,Lunes,Laboral,14:15,14:21,6,Soleado,0.0,18.4,57,9.9,48,14,29.2,Ruta Principal,25.6,32,Medio,No
+CAM0039,2025-01-06,Lunes,Laboral,14:30,14:36,6,Soleado,0.0,18.4,57,9.9,50,13,26.0,Ruta Principal,27.9,33,Medio,No
+CAM0040,2025-01-06,Lunes,Laboral,14:45,14:51,6,Soleado,0.0,18.4,57,9.9,56,35,62.5,Ruta Principal,22.3,48,Medio,No
+CAM0041,2025-01-06,Lunes,Laboral,15:00,15:05,5,Soleado,0.0,18.4,57,9.9,71,53,74.6,Ruta Principal,23.6,37,Medio,No
+CAM0042,2025-01-06,Lunes,Laboral,15:15,15:25,10,Soleado,0.0,18.4,57,9.9,61,21,34.4,Ruta Principal,16.4,48,Medio,No
+CAM0043,2025-01-06,Lunes,Laboral,15:30,15:38,8,Soleado,0.0,18.4,57,9.9,61,28,45.9,Ruta Principal,22.0,34,Medio,No
+CAM0044,2025-01-06,Lunes,Laboral,15:45,15:49,4,Soleado,0.0,18.4,57,9.9,49,24,49.0,Ruta Principal,25.9,32,Medio,No
+CAM0045,2025-01-06,Lunes,Laboral,16:00,16:15,15,Soleado,0.0,18.4,57,9.9,54,41,75.9,Ruta Principal,16.4,44,Alto,Sí
+CAM0046,2025-01-06,Lunes,Laboral,16:15,16:36,21,Soleado,0.0,18.4,57,9.9,53,42,79.2,Ruta Principal,15.6,48,Alto,Sí
+CAM0047,2025-01-06,Lunes,Laboral,16:30,16:52,22,Soleado,0.0,18.4,57,9.9,65,45,69.2,Ruta Principal,10.6,64,Alto,Sí
+CAM0048,2025-01-06,Lunes,Laboral,16:45,16:53,8,Soleado,0.0,18.4,57,9.9,50,39,78.0,Ruta Principal,12.0,48,Alto,Sí
+CAM0049,2025-01-06,Lunes,Laboral,17:00,17:23,23,Soleado,0.0,18.4,57,9.9,54,47,87.0,Ruta Principal,20.8,53,Alto,Sí
+CAM0050,2025-01-06,Lunes,Laboral,17:15,17:35,20,Soleado,0.0,18.4,57,9.9,48,43,89.6,Ruta Principal,13.2,59,Alto,Sí
+CAM0051,2025-01-06,Lunes,Laboral,17:30,17:47,17,Soleado,0.0,18.4,57,9.9,61,61,100.0,Ruta Principal,21.5,59,Alto,Sí
+CAM0052,2025-01-06,Lunes,Laboral,17:45,18:08,23,Soleado,0.0,18.4,57,9.9,52,39,75.0,Ruta Principal,13.6,49,Alto,Sí
+CAM0053,2025-01-06,Lunes,Laboral,18:00,18:25,25,Soleado,0.0,18.4,57,9.9,49,41,83.7,Ruta Principal,10.7,68,Alto,Sí
+CAM0054,2025-01-06,Lunes,Laboral,18:15,18:38,23,Soleado,0.0,18.4,57,9.9,64,57,89.1,Ruta Principal,11.9,64,Alto,Sí
+CAM0055,2025-01-06,Lunes,Laboral,18:30,18:40,10,Soleado,0.0,18.4,57,9.9,53,36,67.9,Ruta Principal,17.1,42,Alto,Sí
+CAM0056,2025-01-06,Lunes,Laboral,18:45,19:05,20,Soleado,0.0,18.4,57,9.9,51,51,100.0,Ruta Principal,13.0,64,Alto,Sí
+CAM0057,2025-01-06,Lunes,Laboral,19:00,19:09,9,Soleado,0.0,18.4,57,9.9,67,45,67.2,Ruta Principal,15.0,52,Alto,Sí
+CAM0058,2025-01-06,Lunes,Laboral,19:15,19:39,24,Soleado,0.0,18.4,57,9.9,58,45,77.6,Ruta Principal,12.5,59,Alto,Sí
+CAM0059,2025-01-06,Lunes,Laboral,19:30,19:45,15,Soleado,0.0,18.4,57,9.9,56,48,85.7,Ruta Principal,11.6,60,Alto,Sí
+CAM0060,2025-01-06,Lunes,Laboral,19:45,20:02,17,Soleado,0.0,18.4,57,9.9,62,50,80.6,Ruta Principal,21.1,44,Alto,Sí
+CAM0061,2025-01-06,Lunes,Laboral,20:00,20:08,8,Soleado,0.0,18.4,57,9.9,62,59,95.2,Ruta Principal,22.0,36,Alto,Sí
+CAM0062,2025-01-06,Lunes,Laboral,20:15,20:25,10,Soleado,0.0,18.4,57,9.9,65,48,73.8,Ruta Principal,16.1,39,Alto,Sí
+CAM0063,2025-01-06,Lunes,Laboral,20:30,20:49,19,Soleado,0.0,18.4,57,9.9,50,39,78.0,Ruta Principal,14.4,49,Alto,Sí
+CAM0064,2025-01-06,Lunes,Laboral,20:45,21:07,22,Soleado,0.0,18.4,57,9.9,65,64,98.5,Ruta Principal,13.6,67,Alto,Sí
+CAM0065,2025-01-06,Lunes,Laboral,21:00,21:03,3,Soleado,0.0,18.4,57,9.9,69,36,52.2,Ruta Principal,29.0,31,Medio,No
+CAM0066,2025-01-06,Lunes,Laboral,21:15,21:20,5,Soleado,0.0,18.4,57,9.9,56,17,30.4,Ruta Principal,28.3,47,Medio,No
+CAM0067,2025-01-06,Lunes,Laboral,21:30,21:35,5,Soleado,0.0,18.4,57,9.9,56,23,41.1,Ruta Principal,24.1,40,Medio,No
+CAM0068,2025-01-06,Lunes,Laboral,21:45,21:51,6,Soleado,0.0,18.4,57,9.9,69,33,47.8,Ruta Principal,22.6,39,Medio,No
+CAM0069,2025-01-06,Lunes,Laboral,22:00,22:03,3,Soleado,0.0,18.4,57,9.9,50,32,64.0,Ruta Principal,21.4,36,Medio,No
+CAM0070,2025-01-06,Lunes,Laboral,22:15,22:18,3,Soleado,0.0,18.4,57,9.9,48,22,45.8,Ruta Principal,26.6,48,Medio,No
+CAM0071,2025-01-06,Lunes,Laboral,22:30,22:37,7,Soleado,0.0,18.4,57,9.9,53,36,67.9,Ruta Principal,21.6,45,Medio,No
+CAM0072,2025-01-06,Lunes,Laboral,22:45,22:48,3,Soleado,0.0,18.4,57,9.9,51,14,27.5,Ruta Principal,29.2,32,Medio,No
+CAM0073,2025-01-06,Lunes,Laboral,23:00,23:04,4,Soleado,0.0,18.4,57,9.9,49,23,46.9,Ruta Principal,36.7,33,Bajo,No
+CAM0074,2025-01-07,Martes,Laboral,05:00,05:00,0,Parcialmente nublado,3.0,19.8,59,12.3,59,20,33.9,Ruta Principal,38.6,28,Bajo,No
+CAM0075,2025-01-07,Martes,Laboral,05:15,05:17,2,Parcialmente nublado,3.0,19.8,59,12.3,72,53,73.6,Ruta Principal,42.7,40,Bajo,No
+CAM0076,2025-01-07,Martes,Laboral,05:30,05:34,4,Parcialmente nublado,3.0,19.8,59,12.3,71,26,36.6,Ruta Principal,43.5,36,Bajo,No
+CAM0077,2025-01-07,Martes,Laboral,05:45,05:46,1,Parcialmente nublado,3.0,19.8,59,12.3,53,26,49.1,Ruta Principal,25.5,36,Bajo,No
+CAM0078,2025-01-07,Martes,Laboral,06:00,06:21,21,Parcialmente nublado,3.0,19.8,59,12.3,69,67,97.1,Ruta Principal,19.7,54,Alto,Sí
+CAM0079,2025-01-07,Martes,Laboral,06:15,06:28,13,Parcialmente nublado,3.0,19.8,59,12.3,70,48,68.6,Ruta Principal,14.6,39,Alto,Sí
+CAM0080,2025-01-07,Martes,Laboral,06:30,06:53,23,Parcialmente nublado,3.0,19.8,59,12.3,55,41,74.5,Ruta Principal,19.8,62,Alto,Sí
+CAM0081,2025-01-07,Martes,Laboral,06:45,07:04,19,Parcialmente nublado,3.0,19.8,59,12.3,57,44,77.2,Ruta Principal,12.7,50,Alto,Sí
+CAM0082,2025-01-07,Martes,Laboral,07:00,07:20,20,Parcialmente nublado,3.0,19.8,59,12.3,58,45,77.6,Ruta Principal,20.4,53,Alto,Sí
+CAM0083,2025-01-07,Martes,Laboral,07:15,07:34,19,Parcialmente nublado,3.0,19.8,59,12.3,68,60,88.2,Ruta Principal,14.8,61,Alto,Sí
+CAM0084,2025-01-07,Martes,Laboral,07:30,07:48,18,Parcialmente nublado,3.0,19.8,59,12.3,48,34,70.8,Ruta Principal,20.5,51,Alto,Sí
+CAM0085,2025-01-07,Martes,Laboral,07:45,07:58,13,Parcialmente nublado,3.0,19.8,59,12.3,66,50,75.8,Ruta Principal,10.5,57,Alto,Sí
+CAM0086,2025-01-07,Martes,Laboral,08:00,08:21,21,Parcialmente nublado,3.0,19.8,59,12.3,59,48,81.4,Ruta Principal,15.2,62,Alto,Sí
+CAM0087,2025-01-07,Martes,Laboral,08:15,08:26,11,Parcialmente nublado,3.0,19.8,59,12.3,60,57,95.0,Ruta Principal,12.3,37,Alto,Sí
+CAM0088,2025-01-07,Martes,Laboral,08:30,08:51,21,Parcialmente nublado,3.0,19.8,59,12.3,48,47,97.9,Ruta Principal,21.1,63,Alto,Sí
+CAM0089,2025-01-07,Martes,Laboral,08:45,08:59,14,Parcialmente nublado,3.0,19.8,59,12.3,59,51,86.4,Ruta Principal,10.8,49,Alto,Sí
+CAM0090,2025-01-07,Martes,Laboral,09:00,09:18,18,Parcialmente nublado,3.0,19.8,59,12.3,69,47,68.1,Ruta Principal,18.6,52,Alto,Sí
+CAM0091,2025-01-07,Martes,Laboral,09:15,09:39,24,Parcialmente nublado,3.0,19.8,59,12.3,57,50,87.7,Ruta Principal,13.9,58,Alto,Sí
+CAM0092,2025-01-07,Martes,Laboral,09:30,09:55,25,Parcialmente nublado,3.0,19.8,59,12.3,52,39,75.0,Ruta Principal,15.0,62,Alto,Sí
+CAM0093,2025-01-07,Martes,Laboral,09:45,09:58,13,Parcialmente nublado,3.0,19.8,59,12.3,67,61,91.0,Ruta Principal,13.6,55,Alto,Sí
+CAM0094,2025-01-07,Martes,Laboral,10:00,10:08,8,Parcialmente nublado,3.0,19.8,59,12.3,57,46,80.7,Ruta Principal,12.5,51,Alto,Sí
+CAM0095,2025-01-07,Martes,Laboral,10:15,10:33,18,Parcialmente nublado,3.0,19.8,59,12.3,62,54,87.1,Ruta Principal,15.3,49,Alto,Sí
+CAM0096,2025-01-07,Martes,Laboral,10:30,10:54,24,Parcialmente nublado,3.0,19.8,59,12.3,63,63,100.0,Ruta Principal,12.0,51,Alto,Sí
+CAM0097,2025-01-07,Martes,Laboral,10:45,11:02,17,Parcialmente nublado,3.0,19.8,59,12.3,64,62,96.9,Ruta Principal,17.6,52,Alto,Sí
+CAM0098,2025-01-07,Martes,Laboral,11:00,11:04,4,Parcialmente nublado,3.0,19.8,59,12.3,72,33,45.8,Ruta Principal,25.1,36,Medio,No
+CAM0099,2025-01-07,Martes,Laboral,11:15,11:21,6,Parcialmente nublado,3.0,19.8,59,12.3,52,13,25.0,Ruta Principal,15.7,46,Medio,No
+CAM0100,2025-01-07,Martes,Laboral,11:30,11:34,4,Parcialmente nublado,3.0,19.8,59,12.3,62,41,66.1,Ruta Principal,28.3,47,Medio,No
+CAM0101,2025-01-07,Martes,Laboral,11:45,11:51,6,Parcialmente nublado,3.0,19.8,59,12.3,70,41,58.6,Ruta Principal,22.4,38,Medio,No
+CAM0102,2025-01-07,Martes,Laboral,12:00,12:05,5,Parcialmente nublado,3.0,19.8,59,12.3,68,17,25.0,Ruta Principal,28.4,33,Medio,No
+CAM0103,2025-01-07,Martes,Laboral,12:15,12:24,9,Parcialmente nublado,3.0,19.8,59,12.3,55,18,32.7,Ruta Principal,27.1,50,Medio,No
+CAM0104,2025-01-07,Martes,Laboral,12:30,12:40,10,Parcialmente nublado,3.0,19.8,59,12.3,49,29,59.2,Ruta Principal,18.7,38,Medio,No
+CAM0105,2025-01-07,Martes,Laboral,12:45,12:55,10,Parcialmente nublado,3.0,19.8,59,12.3,52,38,73.1,Ruta Principal,22.0,51,Medio,No
+CAM0106,2025-01-07,Martes,Laboral,13:00,13:08,8,Parcialmente nublado,3.0,19.8,59,12.3,72,46,63.9,Ruta Principal,24.2,49,Medio,No
+CAM0107,2025-01-07,Martes,Laboral,13:15,13:24,9,Parcialmente nublado,3.0,19.8,59,12.3,65,44,67.7,Ruta Principal,28.5,49,Medio,No
+CAM0108,2025-01-07,Martes,Laboral,13:30,13:40,10,Parcialmente nublado,3.0,19.8,59,12.3,56,38,67.9,Ruta Principal,18.7,55,Medio,No
+CAM0109,2025-01-07,Martes,Laboral,13:45,13:52,7,Parcialmente nublado,3.0,19.8,59,12.3,72,51,70.8,Ruta Principal,22.3,39,Medio,No
+CAM0110,2025-01-07,Martes,Laboral,14:00,14:07,7,Parcialmente nublado,3.0,19.8,59,12.3,62,19,30.6,Ruta Principal,25.7,39,Medio,No
+CAM0111,2025-01-07,Martes,Laboral,14:15,14:22,7,Parcialmente nublado,3.0,19.8,59,12.3,58,24,41.4,Ruta Principal,28.4,34,Medio,No
+CAM0112,2025-01-07,Martes,Laboral,14:30,14:35,5,Parcialmente nublado,3.0,19.8,59,12.3,52,20,38.5,Ruta Principal,20.7,34,Medio,No
+CAM0113,2025-01-07,Martes,Laboral,14:45,14:51,6,Parcialmente nublado,3.0,19.8,59,12.3,50,25,50.0,Ruta Principal,21.1,48,Medio,No
+CAM0114,2025-01-07,Martes,Laboral,15:00,15:10,10,Parcialmente nublado,3.0,19.8,59,12.3,61,16,26.2,Ruta Principal,18.1,48,Medio,No
+CAM0115,2025-01-07,Martes,Laboral,15:15,15:24,9,Parcialmente nublado,3.0,19.8,59,12.3,72,19,26.4,Ruta Principal,27.9,52,Medio,No
+CAM0116,2025-01-07,Martes,Laboral,15:30,15:39,9,Parcialmente nublado,3.0,19.8,59,12.3,63,15,23.8,Ruta Principal,29.1,43,Medio,No
+CAM0117,2025-01-07,Martes,Laboral,15:45,15:54,9,Parcialmente nublado,3.0,19.8,59,12.3,61,32,52.5,Ruta Principal,26.2,51,Medio,No
+CAM0118,2025-01-07,Martes,Laboral,16:00,16:15,15,Parcialmente nublado,3.0,19.8,59,12.3,63,47,74.6,Ruta Principal,13.3,55,Alto,Sí
+CAM0119,2025-01-07,Martes,Laboral,16:15,16:23,8,Parcialmente nublado,3.0,19.8,59,12.3,60,49,81.7,Ruta Principal,18.0,45,Alto,Sí
+CAM0120,2025-01-07,Martes,Laboral,16:30,16:43,13,Parcialmente nublado,3.0,19.8,59,12.3,62,44,71.0,Ruta Principal,21.8,55,Alto,Sí
+CAM0121,2025-01-07,Martes,Laboral,16:45,16:53,8,Parcialmente nublado,3.0,19.8,59,12.3,60,57,95.0,Ruta Principal,16.8,33,Alto,Sí
+CAM0122,2025-01-07,Martes,Laboral,17:00,17:10,10,Parcialmente nublado,3.0,19.8,59,12.3,68,57,83.8,Ruta Principal,11.6,49,Alto,Sí
+CAM0123,2025-01-07,Martes,Laboral,17:15,17:28,13,Parcialmente nublado,3.0,19.8,59,12.3,49,39,79.6,Ruta Principal,14.5,44,Alto,Sí
+CAM0124,2025-01-07,Martes,Laboral,17:30,17:52,22,Parcialmente nublado,3.0,19.8,59,12.3,58,47,81.0,Ruta Principal,19.1,59,Alto,Sí
+CAM0125,2025-01-07,Martes,Laboral,17:45,18:01,16,Parcialmente nublado,3.0,19.8,59,12.3,72,72,100.0,Ruta Principal,15.1,43,Alto,Sí
+CAM0126,2025-01-07,Martes,Laboral,18:00,18:23,23,Parcialmente nublado,3.0,19.8,59,12.3,48,48,100.0,Ruta Principal,10.6,59,Alto,Sí
+CAM0127,2025-01-07,Martes,Laboral,18:15,18:30,15,Parcialmente nublado,3.0,19.8,59,12.3,68,46,67.6,Ruta Principal,19.4,60,Alto,Sí
+CAM0128,2025-01-07,Martes,Laboral,18:30,18:39,9,Parcialmente nublado,3.0,19.8,59,12.3,72,46,63.9,Ruta Principal,21.4,40,Alto,Sí
+CAM0129,2025-01-07,Martes,Laboral,18:45,18:53,8,Parcialmente nublado,3.0,19.8,59,12.3,67,47,70.1,Ruta Principal,12.9,48,Alto,Sí
+CAM0130,2025-01-07,Martes,Laboral,19:00,19:11,11,Parcialmente nublado,3.0,19.8,59,12.3,66,48,72.7,Ruta Principal,15.6,44,Alto,Sí
+CAM0131,2025-01-07,Martes,Laboral,19:15,19:34,19,Parcialmente nublado,3.0,19.8,59,12.3,53,53,100.0,Ruta Principal,17.3,47,Alto,Sí
+CAM0132,2025-01-07,Martes,Laboral,19:30,19:43,13,Parcialmente nublado,3.0,19.8,59,12.3,57,40,70.2,Ruta Principal,16.9,47,Alto,Sí
+CAM0133,2025-01-07,Martes,Laboral,19:45,20:05,20,Parcialmente nublado,3.0,19.8,59,12.3,60,45,75.0,Ruta Principal,10.9,65,Alto,Sí
+CAM0134,2025-01-07,Martes,Laboral,20:00,20:15,15,Parcialmente nublado,3.0,19.8,59,12.3,51,42,82.4,Ruta Principal,20.2,59,Alto,Sí
+CAM0135,2025-01-07,Martes,Laboral,20:15,20:26,11,Parcialmente nublado,3.0,19.8,59,12.3,66,43,65.2,Ruta Principal,14.2,49,Alto,Sí
+CAM0136,2025-01-07,Martes,Laboral,20:30,20:49,19,Parcialmente nublado,3.0,19.8,59,12.3,50,48,96.0,Ruta Principal,17.8,44,Alto,Sí
+CAM0137,2025-01-07,Martes,Laboral,20:45,21:06,21,Parcialmente nublado,3.0,19.8,59,12.3,63,43,68.3,Ruta Principal,15.2,57,Alto,Sí
+CAM0138,2025-01-07,Martes,Laboral,21:00,21:10,10,Parcialmente nublado,3.0,19.8,59,12.3,70,26,37.1,Ruta Principal,21.5,51,Medio,No
+CAM0139,2025-01-07,Martes,Laboral,21:15,21:22,7,Parcialmente nublado,3.0,19.8,59,12.3,67,50,74.6,Ruta Principal,26.6,46,Medio,No
+CAM0140,2025-01-07,Martes,Laboral,21:30,21:39,9,Parcialmente nublado,3.0,19.8,59,12.3,71,34,47.9,Ruta Principal,19.8,41,Medio,No
+CAM0141,2025-01-07,Martes,Laboral,21:45,21:49,4,Parcialmente nublado,3.0,19.8,59,12.3,56,42,75.0,Ruta Principal,21.8,43,Medio,No
+CAM0142,2025-01-07,Martes,Laboral,22:00,22:09,9,Parcialmente nublado,3.0,19.8,59,12.3,58,14,24.1,Ruta Principal,22.4,44,Medio,No
+CAM0143,2025-01-07,Martes,Laboral,22:15,22:20,5,Parcialmente nublado,3.0,19.8,59,12.3,63,28,44.4,Ruta Principal,20.3,38,Medio,No
+CAM0144,2025-01-07,Martes,Laboral,22:30,22:38,8,Parcialmente nublado,3.0,19.8,59,12.3,56,42,75.0,Ruta Principal,23.9,41,Medio,No
+CAM0145,2025-01-07,Martes,Laboral,22:45,22:48,3,Parcialmente nublado,3.0,19.8,59,12.3,64,28,43.8,Ruta Principal,16.3,41,Medio,No
+CAM0146,2025-01-07,Martes,Laboral,23:00,23:03,3,Parcialmente nublado,3.0,19.8,59,12.3,65,31,47.7,Ruta Principal,38.8,48,Bajo,No
+CAM0147,2025-01-08,Miércoles,Laboral,05:00,05:01,1,Parcialmente nublado,3.0,24.3,41,6.9,60,37,61.7,Ruta Principal,29.9,44,Bajo,No
+CAM0148,2025-01-08,Miércoles,Laboral,05:15,05:17,2,Parcialmente nublado,3.0,24.3,41,6.9,63,37,58.7,Ruta Principal,33.5,44,Bajo,No
+CAM0149,2025-01-08,Miércoles,Laboral,05:30,05:32,2,Parcialmente nublado,3.0,24.3,41,6.9,59,36,61.0,Ruta Principal,34.1,36,Bajo,No
+CAM0150,2025-01-08,Miércoles,Laboral,05:45,05:47,2,Parcialmente nublado,3.0,24.3,41,6.9,55,16,29.1,Ruta Principal,39.4,37,Bajo,No
+CAM0151,2025-01-08,Miércoles,Laboral,06:00,06:11,11,Parcialmente nublado,3.0,24.3,41,6.9,71,63,88.7,Ruta Principal,21.4,41,Alto,Sí
+CAM0152,2025-01-08,Miércoles,Laboral,06:15,06:29,14,Parcialmente nublado,3.0,24.3,41,6.9,54,50,92.6,Ruta Principal,13.3,57,Alto,Sí
+CAM0153,2025-01-08,Miércoles,Laboral,06:30,06:54,24,Parcialmente nublado,3.0,24.3,41,6.9,67,52,77.6,Ruta Principal,21.8,55,Alto,Sí
+CAM0154,2025-01-08,Miércoles,Laboral,06:45,07:02,17,Parcialmente nublado,3.0,24.3,41,6.9,55,46,83.6,Ruta Principal,12.2,42,Alto,Sí
+CAM0155,2025-01-08,Miércoles,Laboral,07:00,07:25,25,Parcialmente nublado,3.0,24.3,41,6.9,52,41,78.8,Ruta Principal,10.5,51,Alto,Sí
+CAM0156,2025-01-08,Miércoles,Laboral,07:15,07:40,25,Parcialmente nublado,3.0,24.3,41,6.9,57,41,71.9,Ruta Principal,17.7,65,Alto,Sí
+CAM0157,2025-01-08,Miércoles,Laboral,07:30,07:41,11,Parcialmente nublado,3.0,24.3,41,6.9,48,40,83.3,Ruta Principal,15.6,50,Alto,Sí
+CAM0158,2025-01-08,Miércoles,Laboral,07:45,08:03,18,Parcialmente nublado,3.0,24.3,41,6.9,53,35,66.0,Ruta Principal,13.0,58,Alto,Sí
+CAM0159,2025-01-08,Miércoles,Laboral,08:00,08:11,11,Parcialmente nublado,3.0,24.3,41,6.9,50,44,88.0,Ruta Principal,15.9,54,Alto,Sí
+CAM0160,2025-01-08,Miércoles,Laboral,08:15,08:24,9,Parcialmente nublado,3.0,24.3,41,6.9,52,37,71.2,Ruta Principal,19.7,43,Alto,Sí
+CAM0161,2025-01-08,Miércoles,Laboral,08:30,08:40,10,Parcialmente nublado,3.0,24.3,41,6.9,55,38,69.1,Ruta Principal,16.7,48,Alto,Sí
+CAM0162,2025-01-08,Miércoles,Laboral,08:45,09:00,15,Parcialmente nublado,3.0,24.3,41,6.9,72,62,86.1,Ruta Principal,14.6,54,Alto,Sí
+CAM0163,2025-01-08,Miércoles,Laboral,09:00,09:17,17,Parcialmente nublado,3.0,24.3,41,6.9,66,55,83.3,Ruta Principal,13.7,61,Alto,Sí
+CAM0164,2025-01-08,Miércoles,Laboral,09:15,09:24,9,Parcialmente nublado,3.0,24.3,41,6.9,67,66,98.5,Ruta Principal,11.2,40,Alto,Sí
+CAM0165,2025-01-08,Miércoles,Laboral,09:30,09:44,14,Parcialmente nublado,3.0,24.3,41,6.9,56,38,67.9,Ruta Principal,11.9,44,Alto,Sí
+CAM0166,2025-01-08,Miércoles,Laboral,09:45,10:10,25,Parcialmente nublado,3.0,24.3,41,6.9,50,37,74.0,Ruta Principal,10.0,64,Alto,Sí
+CAM0167,2025-01-08,Miércoles,Laboral,10:00,10:23,23,Parcialmente nublado,3.0,24.3,41,6.9,57,38,66.7,Ruta Principal,12.8,57,Alto,Sí
+CAM0168,2025-01-08,Miércoles,Laboral,10:15,10:37,22,Parcialmente nublado,3.0,24.3,41,6.9,50,39,78.0,Ruta Principal,21.1,67,Alto,Sí
+CAM0169,2025-01-08,Miércoles,Laboral,10:30,10:44,14,Parcialmente nublado,3.0,24.3,41,6.9,61,42,68.9,Ruta Principal,16.5,59,Alto,Sí
+CAM0170,2025-01-08,Miércoles,Laboral,10:45,10:57,12,Parcialmente nublado,3.0,24.3,41,6.9,56,40,71.4,Ruta Principal,10.9,42,Alto,Sí
+CAM0171,2025-01-08,Miércoles,Laboral,11:00,11:07,7,Parcialmente nublado,3.0,24.3,41,6.9,67,34,50.7,Ruta Principal,21.6,46,Medio,No
+CAM0172,2025-01-08,Miércoles,Laboral,11:15,11:22,7,Parcialmente nublado,3.0,24.3,41,6.9,70,42,60.0,Ruta Principal,29.1,48,Medio,No
+CAM0173,2025-01-08,Miércoles,Laboral,11:30,11:40,10,Parcialmente nublado,3.0,24.3,41,6.9,62,20,32.3,Ruta Principal,24.0,48,Medio,No
+CAM0174,2025-01-08,Miércoles,Laboral,11:45,11:53,8,Parcialmente nublado,3.0,24.3,41,6.9,67,32,47.8,Ruta Principal,15.4,40,Medio,No
+CAM0175,2025-01-08,Miércoles,Laboral,12:00,12:03,3,Parcialmente nublado,3.0,24.3,41,6.9,72,35,48.6,Ruta Principal,23.6,33,Medio,No
+CAM0176,2025-01-08,Miércoles,Laboral,12:15,12:25,10,Parcialmente nublado,3.0,24.3,41,6.9,64,44,68.8,Ruta Principal,28.7,40,Medio,No
+CAM0177,2025-01-08,Miércoles,Laboral,12:30,12:39,9,Parcialmente nublado,3.0,24.3,41,6.9,68,48,70.6,Ruta Principal,29.5,49,Medio,No
+CAM0178,2025-01-08,Miércoles,Laboral,12:45,12:53,8,Parcialmente nublado,3.0,24.3,41,6.9,61,25,41.0,Ruta Principal,19.8,36,Medio,No
+CAM0179,2025-01-08,Miércoles,Laboral,13:00,13:05,5,Parcialmente nublado,3.0,24.3,41,6.9,58,27,46.6,Ruta Principal,25.4,39,Medio,No
+CAM0180,2025-01-08,Miércoles,Laboral,13:15,13:24,9,Parcialmente nublado,3.0,24.3,41,6.9,72,53,73.6,Ruta Principal,15.6,36,Medio,No
+CAM0181,2025-01-08,Miércoles,Laboral,13:30,13:38,8,Parcialmente nublado,3.0,24.3,41,6.9,56,24,42.9,Ruta Principal,16.7,45,Medio,No
+CAM0182,2025-01-08,Miércoles,Laboral,13:45,13:48,3,Parcialmente nublado,3.0,24.3,41,6.9,69,51,73.9,Ruta Principal,21.9,29,Medio,No
+CAM0183,2025-01-08,Miércoles,Laboral,14:00,14:06,6,Parcialmente nublado,3.0,24.3,41,6.9,64,39,60.9,Ruta Principal,24.3,46,Medio,No
+CAM0184,2025-01-08,Miércoles,Laboral,14:15,14:25,10,Parcialmente nublado,3.0,24.3,41,6.9,72,21,29.2,Ruta Principal,18.1,52,Medio,No
+CAM0185,2025-01-08,Miércoles,Laboral,14:30,14:35,5,Parcialmente nublado,3.0,24.3,41,6.9,57,28,49.1,Ruta Principal,28.2,45,Medio,No
+CAM0186,2025-01-08,Miércoles,Laboral,14:45,14:49,4,Parcialmente nublado,3.0,24.3,41,6.9,48,32,66.7,Ruta Principal,24.1,36,Medio,No
+CAM0187,2025-01-08,Miércoles,Laboral,15:00,15:05,5,Parcialmente nublado,3.0,24.3,41,6.9,57,31,54.4,Ruta Principal,15.2,43,Medio,No
+CAM0188,2025-01-08,Miércoles,Laboral,15:15,15:19,4,Parcialmente nublado,3.0,24.3,41,6.9,55,39,70.9,Ruta Principal,28.7,43,Medio,No
+CAM0189,2025-01-08,Miércoles,Laboral,15:30,15:34,4,Parcialmente nublado,3.0,24.3,41,6.9,68,26,38.2,Ruta Principal,22.5,38,Medio,No
+CAM0190,2025-01-08,Miércoles,Laboral,15:45,15:52,7,Parcialmente nublado,3.0,24.3,41,6.9,61,41,67.2,Ruta Principal,22.2,47,Medio,No
+CAM0191,2025-01-08,Miércoles,Laboral,16:00,16:15,15,Parcialmente nublado,3.0,24.3,41,6.9,62,57,91.9,Ruta Principal,11.7,46,Alto,Sí
+CAM0192,2025-01-08,Miércoles,Laboral,16:15,16:39,24,Parcialmente nublado,3.0,24.3,41,6.9,71,50,70.4,Ruta Principal,20.4,57,Alto,Sí
+CAM0193,2025-01-08,Miércoles,Laboral,16:30,16:51,21,Parcialmente nublado,3.0,24.3,41,6.9,58,53,91.4,Ruta Principal,13.2,46,Alto,Sí
+CAM0194,2025-01-08,Miércoles,Laboral,16:45,17:02,17,Parcialmente nublado,3.0,24.3,41,6.9,71,55,77.5,Ruta Principal,20.0,60,Alto,Sí
+CAM0195,2025-01-08,Miércoles,Laboral,17:00,17:23,23,Parcialmente nublado,3.0,24.3,41,6.9,52,47,90.4,Ruta Principal,16.5,59,Alto,Sí
+CAM0196,2025-01-08,Miércoles,Laboral,17:15,17:33,18,Parcialmente nublado,3.0,24.3,41,6.9,65,59,90.8,Ruta Principal,14.5,53,Alto,Sí
+CAM0197,2025-01-08,Miércoles,Laboral,17:30,17:44,14,Parcialmente nublado,3.0,24.3,41,6.9,70,52,74.3,Ruta Principal,16.9,46,Alto,Sí
+CAM0198,2025-01-08,Miércoles,Laboral,17:45,18:06,21,Parcialmente nublado,3.0,24.3,41,6.9,49,41,83.7,Ruta Principal,18.9,58,Alto,Sí
+CAM0199,2025-01-08,Miércoles,Laboral,18:00,18:20,20,Parcialmente nublado,3.0,24.3,41,6.9,69,69,100.0,Ruta Principal,19.8,49,Alto,Sí
+CAM0200,2025-01-08,Miércoles,Laboral,18:15,18:38,23,Parcialmente nublado,3.0,24.3,41,6.9,49,35,71.4,Ruta Principal,16.0,66,Alto,Sí
+CAM0201,2025-01-08,Miércoles,Laboral,18:30,18:48,18,Parcialmente nublado,3.0,24.3,41,6.9,51,47,92.2,Ruta Principal,11.2,57,Alto,Sí
+CAM0202,2025-01-08,Miércoles,Laboral,18:45,18:53,8,Parcialmente nublado,3.0,24.3,41,6.9,71,50,70.4,Ruta Principal,14.9,53,Alto,Sí
+CAM0203,2025-01-08,Miércoles,Laboral,19:00,19:12,12,Parcialmente nublado,3.0,24.3,41,6.9,50,47,94.0,Ruta Principal,19.4,45,Alto,Sí
+CAM0204,2025-01-08,Miércoles,Laboral,19:15,19:33,18,Parcialmente nublado,3.0,24.3,41,6.9,67,65,97.0,Ruta Principal,14.8,45,Alto,Sí
+CAM0205,2025-01-08,Miércoles,Laboral,19:30,19:48,18,Parcialmente nublado,3.0,24.3,41,6.9,69,61,88.4,Ruta Principal,14.6,53,Alto,Sí
+CAM0206,2025-01-08,Miércoles,Laboral,19:45,20:08,23,Parcialmente nublado,3.0,24.3,41,6.9,65,43,66.2,Ruta Principal,17.4,55,Alto,Sí
+CAM0207,2025-01-08,Miércoles,Laboral,20:00,20:17,17,Parcialmente nublado,3.0,24.3,41,6.9,55,37,67.3,Ruta Principal,15.2,45,Alto,Sí
+CAM0208,2025-01-08,Miércoles,Laboral,20:15,20:26,11,Parcialmente nublado,3.0,24.3,41,6.9,62,45,72.6,Ruta Principal,18.3,36,Alto,Sí
+CAM0209,2025-01-08,Miércoles,Laboral,20:30,20:39,9,Parcialmente nublado,3.0,24.3,41,6.9,58,38,65.5,Ruta Principal,13.5,45,Alto,Sí
+CAM0210,2025-01-08,Miércoles,Laboral,20:45,21:06,21,Parcialmente nublado,3.0,24.3,41,6.9,52,40,76.9,Ruta Principal,16.4,64,Alto,Sí
+CAM0211,2025-01-08,Miércoles,Laboral,21:00,21:05,5,Parcialmente nublado,3.0,24.3,41,6.9,53,18,34.0,Ruta Principal,16.2,42,Medio,No
+CAM0212,2025-01-08,Miércoles,Laboral,21:15,21:21,6,Parcialmente nublado,3.0,24.3,41,6.9,63,24,38.1,Ruta Principal,18.5,51,Medio,No
+CAM0213,2025-01-08,Miércoles,Laboral,21:30,21:37,7,Parcialmente nublado,3.0,24.3,41,6.9,62,31,50.0,Ruta Principal,25.0,46,Medio,No
+CAM0214,2025-01-08,Miércoles,Laboral,21:45,21:52,7,Parcialmente nublado,3.0,24.3,41,6.9,69,51,73.9,Ruta Principal,17.4,46,Medio,No
+CAM0215,2025-01-08,Miércoles,Laboral,22:00,22:08,8,Parcialmente nublado,3.0,24.3,41,6.9,66,35,53.0,Ruta Principal,24.6,46,Medio,No
+CAM0216,2025-01-08,Miércoles,Laboral,22:15,22:22,7,Parcialmente nublado,3.0,24.3,41,6.9,62,34,54.8,Ruta Principal,18.0,44,Medio,No
+CAM0217,2025-01-08,Miércoles,Laboral,22:30,22:40,10,Parcialmente nublado,3.0,24.3,41,6.9,51,19,37.3,Ruta Principal,20.7,46,Medio,No
+CAM0218,2025-01-08,Miércoles,Laboral,22:45,22:52,7,Parcialmente nublado,3.0,24.3,41,6.9,70,35,50.0,Ruta Principal,15.3,44,Medio,No
+CAM0219,2025-01-08,Miércoles,Laboral,23:00,23:02,2,Parcialmente nublado,3.0,24.3,41,6.9,48,30,62.5,Ruta Principal,42.3,28,Bajo,No
+CAM0220,2025-01-09,Jueves,Laboral,05:00,05:01,1,Parcialmente nublado,3.0,29.7,58,20.5,67,38,56.7,Ruta Principal,29.4,32,Bajo,No
+CAM0221,2025-01-09,Jueves,Laboral,05:15,05:19,4,Parcialmente nublado,3.0,29.7,58,20.5,56,35,62.5,Ruta Principal,40.1,33,Bajo,No
+CAM0222,2025-01-09,Jueves,Laboral,05:30,05:35,5,Parcialmente nublado,3.0,29.7,58,20.5,51,32,62.7,Ruta Principal,37.9,39,Bajo,No
+CAM0223,2025-01-09,Jueves,Laboral,05:45,05:48,3,Parcialmente nublado,3.0,29.7,58,20.5,49,30,61.2,Ruta Principal,32.3,32,Bajo,No
+CAM0224,2025-01-09,Jueves,Laboral,06:00,06:10,10,Parcialmente nublado,3.0,29.7,58,20.5,57,47,82.5,Ruta Principal,19.0,40,Alto,Sí
+CAM0225,2025-01-09,Jueves,Laboral,06:15,06:29,14,Parcialmente nublado,3.0,29.7,58,20.5,52,50,96.2,Ruta Principal,20.5,50,Alto,Sí
+CAM0226,2025-01-09,Jueves,Laboral,06:30,06:54,24,Parcialmente nublado,3.0,29.7,58,20.5,64,49,76.6,Ruta Principal,20.0,57,Alto,Sí
+CAM0227,2025-01-09,Jueves,Laboral,06:45,07:08,23,Parcialmente nublado,3.0,29.7,58,20.5,57,47,82.5,Ruta Principal,19.7,62,Alto,Sí
+CAM0228,2025-01-09,Jueves,Laboral,07:00,07:10,10,Parcialmente nublado,3.0,29.7,58,20.5,52,40,76.9,Ruta Principal,20.3,47,Alto,Sí
+CAM0229,2025-01-09,Jueves,Laboral,07:15,07:40,25,Parcialmente nublado,3.0,29.7,58,20.5,59,40,67.8,Ruta Principal,19.5,50,Alto,Sí
+CAM0230,2025-01-09,Jueves,Laboral,07:30,07:46,16,Parcialmente nublado,3.0,29.7,58,20.5,65,45,69.2,Ruta Principal,15.5,49,Alto,Sí
+CAM0231,2025-01-09,Jueves,Laboral,07:45,08:05,20,Parcialmente nublado,3.0,29.7,58,20.5,68,55,80.9,Ruta Principal,11.3,52,Alto,Sí
+CAM0232,2025-01-09,Jueves,Laboral,08:00,08:23,23,Parcialmente nublado,3.0,29.7,58,20.5,48,48,100.0,Ruta Principal,13.9,67,Alto,Sí
+CAM0233,2025-01-09,Jueves,Laboral,08:15,08:30,15,Parcialmente nublado,3.0,29.7,58,20.5,68,46,67.6,Ruta Principal,17.6,54,Alto,Sí
+CAM0234,2025-01-09,Jueves,Laboral,08:30,08:47,17,Parcialmente nublado,3.0,29.7,58,20.5,68,57,83.8,Ruta Principal,11.4,43,Alto,Sí
+CAM0235,2025-01-09,Jueves,Laboral,08:45,08:54,9,Parcialmente nublado,3.0,29.7,58,20.5,57,52,91.2,Ruta Principal,11.4,41,Alto,Sí
+CAM0236,2025-01-09,Jueves,Laboral,09:00,09:25,25,Parcialmente nublado,3.0,29.7,58,20.5,52,45,86.5,Ruta Principal,15.4,67,Alto,Sí
+CAM0237,2025-01-09,Jueves,Laboral,09:15,09:36,21,Parcialmente nublado,3.0,29.7,58,20.5,66,65,98.5,Ruta Principal,18.7,59,Alto,Sí
+CAM0238,2025-01-09,Jueves,Laboral,09:30,09:41,11,Parcialmente nublado,3.0,29.7,58,20.5,63,59,93.7,Ruta Principal,14.9,44,Alto,Sí
+CAM0239,2025-01-09,Jueves,Laboral,09:45,09:54,9,Parcialmente nublado,3.0,29.7,58,20.5,70,56,80.0,Ruta Principal,12.6,48,Alto,Sí
+CAM0240,2025-01-09,Jueves,Laboral,10:00,10:15,15,Parcialmente nublado,3.0,29.7,58,20.5,59,41,69.5,Ruta Principal,21.8,51,Alto,Sí
+CAM0241,2025-01-09,Jueves,Laboral,10:15,10:40,25,Parcialmente nublado,3.0,29.7,58,20.5,68,55,80.9,Ruta Principal,10.7,58,Alto,Sí
+CAM0242,2025-01-09,Jueves,Laboral,10:30,10:44,14,Parcialmente nublado,3.0,29.7,58,20.5,51,47,92.2,Ruta Principal,11.1,45,Alto,Sí
+CAM0243,2025-01-09,Jueves,Laboral,10:45,10:53,8,Parcialmente nublado,3.0,29.7,58,20.5,49,41,83.7,Ruta Principal,12.9,37,Alto,Sí
+CAM0244,2025-01-09,Jueves,Laboral,11:00,11:06,6,Parcialmente nublado,3.0,29.7,58,20.5,50,36,72.0,Ruta Principal,23.3,49,Medio,No
+CAM0245,2025-01-09,Jueves,Laboral,11:15,11:21,6,Parcialmente nublado,3.0,29.7,58,20.5,55,23,41.8,Ruta Principal,26.6,50,Medio,No
+CAM0246,2025-01-09,Jueves,Laboral,11:30,11:33,3,Parcialmente nublado,3.0,29.7,58,20.5,56,41,73.2,Ruta Principal,29.8,32,Medio,No
+CAM0247,2025-01-09,Jueves,Laboral,11:45,11:52,7,Parcialmente nublado,3.0,29.7,58,20.5,53,16,30.2,Ruta Principal,24.9,32,Medio,No
+CAM0248,2025-01-09,Jueves,Laboral,12:00,12:05,5,Parcialmente nublado,3.0,29.7,58,20.5,48,23,47.9,Ruta Principal,26.8,37,Medio,No
+CAM0249,2025-01-09,Jueves,Laboral,12:15,12:23,8,Parcialmente nublado,3.0,29.7,58,20.5,48,17,35.4,Ruta Principal,19.0,37,Medio,No
+CAM0250,2025-01-09,Jueves,Laboral,12:30,12:39,9,Parcialmente nublado,3.0,29.7,58,20.5,64,23,35.9,Ruta Principal,26.2,49,Medio,No
+CAM0251,2025-01-09,Jueves,Laboral,12:45,12:55,10,Parcialmente nublado,3.0,29.7,58,20.5,72,41,56.9,Ruta Principal,22.7,38,Medio,No
+CAM0252,2025-01-09,Jueves,Laboral,13:00,13:10,10,Parcialmente nublado,3.0,29.7,58,20.5,64,30,46.9,Ruta Principal,29.2,36,Medio,No
+CAM0253,2025-01-09,Jueves,Laboral,13:15,13:22,7,Parcialmente nublado,3.0,29.7,58,20.5,62,16,25.8,Ruta Principal,15.9,47,Medio,No
+CAM0254,2025-01-09,Jueves,Laboral,13:30,13:39,9,Parcialmente nublado,3.0,29.7,58,20.5,61,36,59.0,Ruta Principal,16.6,48,Medio,No
+CAM0255,2025-01-09,Jueves,Laboral,13:45,13:49,4,Parcialmente nublado,3.0,29.7,58,20.5,50,22,44.0,Ruta Principal,24.1,31,Medio,No
+CAM0256,2025-01-09,Jueves,Laboral,14:00,14:05,5,Parcialmente nublado,3.0,29.7,58,20.5,56,33,58.9,Ruta Principal,24.5,47,Medio,No
+CAM0257,2025-01-09,Jueves,Laboral,14:15,14:23,8,Parcialmente nublado,3.0,29.7,58,20.5,60,34,56.7,Ruta Principal,23.0,47,Medio,No
+CAM0258,2025-01-09,Jueves,Laboral,14:30,14:39,9,Parcialmente nublado,3.0,29.7,58,20.5,51,37,72.5,Ruta Principal,25.5,54,Medio,No
+CAM0259,2025-01-09,Jueves,Laboral,14:45,14:51,6,Parcialmente nublado,3.0,29.7,58,20.5,61,29,47.5,Ruta Principal,28.3,44,Medio,No
+CAM0260,2025-01-09,Jueves,Laboral,15:00,15:08,8,Parcialmente nublado,3.0,29.7,58,20.5,62,40,64.5,Ruta Principal,21.2,36,Medio,No
+CAM0261,2025-01-09,Jueves,Laboral,15:15,15:23,8,Parcialmente nublado,3.0,29.7,58,20.5,61,25,41.0,Ruta Principal,25.0,44,Medio,No
+CAM0262,2025-01-09,Jueves,Laboral,15:30,15:35,5,Parcialmente nublado,3.0,29.7,58,20.5,69,47,68.1,Ruta Principal,16.0,32,Medio,No
+CAM0263,2025-01-09,Jueves,Laboral,15:45,15:49,4,Parcialmente nublado,3.0,29.7,58,20.5,61,18,29.5,Ruta Principal,26.2,40,Medio,No
+CAM0264,2025-01-09,Jueves,Laboral,16:00,16:12,12,Parcialmente nublado,3.0,29.7,58,20.5,65,43,66.2,Ruta Principal,17.0,54,Alto,Sí
+CAM0265,2025-01-09,Jueves,Laboral,16:15,16:40,25,Parcialmente nublado,3.0,29.7,58,20.5,58,58,100.0,Ruta Principal,11.5,61,Alto,Sí
+CAM0266,2025-01-09,Jueves,Laboral,16:30,16:51,21,Parcialmente nublado,3.0,29.7,58,20.5,71,47,66.2,Ruta Principal,21.6,65,Alto,Sí
+CAM0267,2025-01-09,Jueves,Laboral,16:45,17:02,17,Parcialmente nublado,3.0,29.7,58,20.5,59,41,69.5,Ruta Principal,16.9,48,Alto,Sí
+CAM0268,2025-01-09,Jueves,Laboral,17:00,17:12,12,Parcialmente nublado,3.0,29.7,58,20.5,69,59,85.5,Ruta Principal,12.7,40,Alto,Sí
+CAM0269,2025-01-09,Jueves,Laboral,17:15,17:34,19,Parcialmente nublado,3.0,29.7,58,20.5,65,53,81.5,Ruta Principal,11.4,52,Alto,Sí
+CAM0270,2025-01-09,Jueves,Laboral,17:30,17:45,15,Parcialmente nublado,3.0,29.7,58,20.5,61,56,91.8,Ruta Principal,21.7,59,Alto,Sí
+CAM0271,2025-01-09,Jueves,Laboral,17:45,18:10,25,Parcialmente nublado,3.0,29.7,58,20.5,48,39,81.2,Ruta Principal,10.3,58,Alto,Sí
+CAM0272,2025-01-09,Jueves,Laboral,18:00,18:17,17,Parcialmente nublado,3.0,29.7,58,20.5,58,48,82.8,Ruta Principal,10.1,46,Alto,Sí
+CAM0273,2025-01-09,Jueves,Laboral,18:15,18:35,20,Parcialmente nublado,3.0,29.7,58,20.5,50,36,72.0,Ruta Principal,18.9,45,Alto,Sí
+CAM0274,2025-01-09,Jueves,Laboral,18:30,18:40,10,Parcialmente nublado,3.0,29.7,58,20.5,71,62,87.3,Ruta Principal,12.6,48,Alto,Sí
+CAM0275,2025-01-09,Jueves,Laboral,18:45,19:07,22,Parcialmente nublado,3.0,29.7,58,20.5,58,42,72.4,Ruta Principal,14.4,57,Alto,Sí
+CAM0276,2025-01-09,Jueves,Laboral,19:00,19:10,10,Parcialmente nublado,3.0,29.7,58,20.5,49,35,71.4,Ruta Principal,11.9,54,Alto,Sí
+CAM0277,2025-01-09,Jueves,Laboral,19:15,19:24,9,Parcialmente nublado,3.0,29.7,58,20.5,69,46,66.7,Ruta Principal,13.3,47,Alto,Sí
+CAM0278,2025-01-09,Jueves,Laboral,19:30,19:53,23,Parcialmente nublado,3.0,29.7,58,20.5,67,57,85.1,Ruta Principal,15.0,54,Alto,Sí
+CAM0279,2025-01-09,Jueves,Laboral,19:45,20:09,24,Parcialmente nublado,3.0,29.7,58,20.5,51,44,86.3,Ruta Principal,15.2,58,Alto,Sí
+CAM0280,2025-01-09,Jueves,Laboral,20:00,20:23,23,Parcialmente nublado,3.0,29.7,58,20.5,64,62,96.9,Ruta Principal,13.7,55,Alto,Sí
+CAM0281,2025-01-09,Jueves,Laboral,20:15,20:35,20,Parcialmente nublado,3.0,29.7,58,20.5,67,44,65.7,Ruta Principal,10.1,54,Alto,Sí
+CAM0282,2025-01-09,Jueves,Laboral,20:30,20:44,14,Parcialmente nublado,3.0,29.7,58,20.5,72,50,69.4,Ruta Principal,19.2,48,Alto,Sí
+CAM0283,2025-01-09,Jueves,Laboral,20:45,21:03,18,Parcialmente nublado,3.0,29.7,58,20.5,51,33,64.7,Ruta Principal,16.0,56,Alto,Sí
+CAM0284,2025-01-09,Jueves,Laboral,21:00,21:05,5,Parcialmente nublado,3.0,29.7,58,20.5,52,25,48.1,Ruta Principal,23.0,37,Medio,No
+CAM0285,2025-01-09,Jueves,Laboral,21:15,21:23,8,Parcialmente nublado,3.0,29.7,58,20.5,50,24,48.0,Ruta Principal,27.9,34,Medio,No
+CAM0286,2025-01-09,Jueves,Laboral,21:30,21:39,9,Parcialmente nublado,3.0,29.7,58,20.5,48,26,54.2,Ruta Principal,28.8,44,Medio,No
+CAM0287,2025-01-09,Jueves,Laboral,21:45,21:54,9,Parcialmente nublado,3.0,29.7,58,20.5,66,41,62.1,Ruta Principal,25.6,47,Medio,No
+CAM0288,2025-01-09,Jueves,Laboral,22:00,22:07,7,Parcialmente nublado,3.0,29.7,58,20.5,51,24,47.1,Ruta Principal,15.3,42,Medio,No
+CAM0289,2025-01-09,Jueves,Laboral,22:15,22:20,5,Parcialmente nublado,3.0,29.7,58,20.5,67,45,67.2,Ruta Principal,27.5,41,Medio,No
+CAM0290,2025-01-09,Jueves,Laboral,22:30,22:34,4,Parcialmente nublado,3.0,29.7,58,20.5,61,42,68.9,Ruta Principal,16.6,42,Medio,No
+CAM0291,2025-01-09,Jueves,Laboral,22:45,22:54,9,Parcialmente nublado,3.0,29.7,58,20.5,64,21,32.8,Ruta Principal,20.9,43,Medio,No
+CAM0292,2025-01-09,Jueves,Laboral,23:00,23:05,5,Parcialmente nublado,3.0,29.7,58,20.5,58,21,36.2,Ruta Principal,31.7,35,Bajo,No
+CAM0293,2025-01-10,Viernes,Laboral,05:00,05:01,1,Soleado,0.0,25.1,47,15.6,72,40,55.6,Ruta Principal,32.0,46,Bajo,No
+CAM0294,2025-01-10,Viernes,Laboral,05:15,05:16,1,Soleado,0.0,25.1,47,15.6,55,16,29.1,Ruta Principal,27.9,32,Bajo,No
+CAM0295,2025-01-10,Viernes,Laboral,05:30,05:31,1,Soleado,0.0,25.1,47,15.6,67,25,37.3,Ruta Principal,40.2,46,Bajo,No
+CAM0296,2025-01-10,Viernes,Laboral,05:45,05:45,0,Soleado,0.0,25.1,47,15.6,53,37,69.8,Ruta Principal,37.6,39,Bajo,No
+CAM0297,2025-01-10,Viernes,Laboral,06:00,06:22,22,Soleado,0.0,25.1,47,15.6,69,62,89.9,Ruta Principal,17.7,66,Alto,Sí
+CAM0298,2025-01-10,Viernes,Laboral,06:15,06:33,18,Soleado,0.0,25.1,47,15.6,68,54,79.4,Ruta Principal,11.8,45,Alto,Sí
+CAM0299,2025-01-10,Viernes,Laboral,06:30,06:53,23,Soleado,0.0,25.1,47,15.6,62,60,96.8,Ruta Principal,13.6,56,Alto,Sí
+CAM0300,2025-01-10,Viernes,Laboral,06:45,06:54,9,Soleado,0.0,25.1,47,15.6,59,54,91.5,Ruta Principal,10.9,48,Alto,Sí
+CAM0301,2025-01-10,Viernes,Laboral,07:00,07:22,22,Soleado,0.0,25.1,47,15.6,49,32,65.3,Ruta Principal,14.4,56,Alto,Sí
+CAM0302,2025-01-10,Viernes,Laboral,07:15,07:25,10,Soleado,0.0,25.1,47,15.6,68,46,67.6,Ruta Principal,17.4,51,Alto,Sí
+CAM0303,2025-01-10,Viernes,Laboral,07:30,07:50,20,Soleado,0.0,25.1,47,15.6,62,58,93.5,Ruta Principal,16.7,46,Alto,Sí
+CAM0304,2025-01-10,Viernes,Laboral,07:45,08:07,22,Soleado,0.0,25.1,47,15.6,66,62,93.9,Ruta Principal,12.3,66,Alto,Sí
+CAM0305,2025-01-10,Viernes,Laboral,08:00,08:23,23,Soleado,0.0,25.1,47,15.6,64,45,70.3,Ruta Principal,21.5,62,Alto,Sí
+CAM0306,2025-01-10,Viernes,Laboral,08:15,08:26,11,Soleado,0.0,25.1,47,15.6,58,39,67.2,Ruta Principal,16.1,41,Alto,Sí
+CAM0307,2025-01-10,Viernes,Laboral,08:30,08:39,9,Soleado,0.0,25.1,47,15.6,55,49,89.1,Ruta Principal,21.9,50,Alto,Sí
+CAM0308,2025-01-10,Viernes,Laboral,08:45,09:09,24,Soleado,0.0,25.1,47,15.6,67,48,71.6,Ruta Principal,14.4,58,Alto,Sí
+CAM0309,2025-01-10,Viernes,Laboral,09:00,09:20,20,Soleado,0.0,25.1,47,15.6,61,49,80.3,Ruta Principal,18.1,46,Alto,Sí
+CAM0310,2025-01-10,Viernes,Laboral,09:15,09:33,18,Soleado,0.0,25.1,47,15.6,50,42,84.0,Ruta Principal,11.1,55,Alto,Sí
+CAM0311,2025-01-10,Viernes,Laboral,09:30,09:47,17,Soleado,0.0,25.1,47,15.6,56,55,98.2,Ruta Principal,20.5,52,Alto,Sí
+CAM0312,2025-01-10,Viernes,Laboral,09:45,09:55,10,Soleado,0.0,25.1,47,15.6,66,63,95.5,Ruta Principal,11.7,46,Alto,Sí
+CAM0313,2025-01-10,Viernes,Laboral,10:00,10:17,17,Soleado,0.0,25.1,47,15.6,68,66,97.1,Ruta Principal,17.9,46,Alto,Sí
+CAM0314,2025-01-10,Viernes,Laboral,10:15,10:25,10,Soleado,0.0,25.1,47,15.6,57,54,94.7,Ruta Principal,14.5,45,Alto,Sí
+CAM0315,2025-01-10,Viernes,Laboral,10:30,10:42,12,Soleado,0.0,25.1,47,15.6,69,66,95.7,Ruta Principal,19.9,53,Alto,Sí
+CAM0316,2025-01-10,Viernes,Laboral,10:45,10:55,10,Soleado,0.0,25.1,47,15.6,68,65,95.6,Ruta Principal,15.1,46,Alto,Sí
+CAM0317,2025-01-10,Viernes,Laboral,11:00,11:03,3,Soleado,0.0,25.1,47,15.6,59,23,39.0,Ruta Principal,17.7,34,Medio,No
+CAM0318,2025-01-10,Viernes,Laboral,11:15,11:23,8,Soleado,0.0,25.1,47,15.6,72,49,68.1,Ruta Principal,17.9,37,Medio,No
+CAM0319,2025-01-10,Viernes,Laboral,11:30,11:35,5,Soleado,0.0,25.1,47,15.6,50,21,42.0,Ruta Principal,27.7,33,Medio,No
+CAM0320,2025-01-10,Viernes,Laboral,11:45,11:48,3,Soleado,0.0,25.1,47,15.6,69,38,55.1,Ruta Principal,28.1,47,Medio,No
+CAM0321,2025-01-10,Viernes,Laboral,12:00,12:05,5,Soleado,0.0,25.1,47,15.6,67,40,59.7,Ruta Principal,17.3,35,Medio,No
+CAM0322,2025-01-10,Viernes,Laboral,12:15,12:20,5,Soleado,0.0,25.1,47,15.6,71,45,63.4,Ruta Principal,15.7,41,Medio,No
+CAM0323,2025-01-10,Viernes,Laboral,12:30,12:36,6,Soleado,0.0,25.1,47,15.6,62,33,53.2,Ruta Principal,26.3,45,Medio,No
+CAM0324,2025-01-10,Viernes,Laboral,12:45,12:51,6,Soleado,0.0,25.1,47,15.6,65,31,47.7,Ruta Principal,19.6,46,Medio,No
+CAM0325,2025-01-10,Viernes,Laboral,13:00,13:06,6,Soleado,0.0,25.1,47,15.6,59,35,59.3,Ruta Principal,29.2,45,Medio,No
+CAM0326,2025-01-10,Viernes,Laboral,13:15,13:25,10,Soleado,0.0,25.1,47,15.6,72,36,50.0,Ruta Principal,26.7,51,Medio,No
+CAM0327,2025-01-10,Viernes,Laboral,13:30,13:39,9,Soleado,0.0,25.1,47,15.6,53,39,73.6,Ruta Principal,18.0,53,Medio,No
+CAM0328,2025-01-10,Viernes,Laboral,13:45,13:50,5,Soleado,0.0,25.1,47,15.6,56,15,26.8,Ruta Principal,24.6,41,Medio,No
+CAM0329,2025-01-10,Viernes,Laboral,14:00,14:04,4,Soleado,0.0,25.1,47,15.6,70,50,71.4,Ruta Principal,27.8,38,Medio,No
+CAM0330,2025-01-10,Viernes,Laboral,14:15,14:19,4,Soleado,0.0,25.1,47,15.6,72,28,38.9,Ruta Principal,19.1,45,Medio,No
+CAM0331,2025-01-10,Viernes,Laboral,14:30,14:35,5,Soleado,0.0,25.1,47,15.6,61,17,27.9,Ruta Principal,29.2,37,Medio,No
+CAM0332,2025-01-10,Viernes,Laboral,14:45,14:55,10,Soleado,0.0,25.1,47,15.6,59,43,72.9,Ruta Principal,15.4,36,Medio,No
+CAM0333,2025-01-10,Viernes,Laboral,15:00,15:09,9,Soleado,0.0,25.1,47,15.6,64,39,60.9,Ruta Principal,18.5,36,Medio,No
+CAM0334,2025-01-10,Viernes,Laboral,15:15,15:23,8,Soleado,0.0,25.1,47,15.6,55,13,23.6,Ruta Principal,19.8,36,Medio,No
+CAM0335,2025-01-10,Viernes,Laboral,15:30,15:38,8,Soleado,0.0,25.1,47,15.6,52,17,32.7,Ruta Principal,15.6,48,Medio,No
+CAM0336,2025-01-10,Viernes,Laboral,15:45,15:50,5,Soleado,0.0,25.1,47,15.6,72,48,66.7,Ruta Principal,21.7,30,Medio,No
+CAM0337,2025-01-10,Viernes,Laboral,16:00,16:10,10,Soleado,0.0,25.1,47,15.6,48,39,81.2,Ruta Principal,12.6,39,Alto,Sí
+CAM0338,2025-01-10,Viernes,Laboral,16:15,16:40,25,Soleado,0.0,25.1,47,15.6,71,65,91.5,Ruta Principal,16.3,53,Alto,Sí
+CAM0339,2025-01-10,Viernes,Laboral,16:30,16:47,17,Soleado,0.0,25.1,47,15.6,55,44,80.0,Ruta Principal,11.5,49,Alto,Sí
+CAM0340,2025-01-10,Viernes,Laboral,16:45,17:06,21,Soleado,0.0,25.1,47,15.6,68,63,92.6,Ruta Principal,15.5,49,Alto,Sí
+CAM0341,2025-01-10,Viernes,Laboral,17:00,17:23,23,Soleado,0.0,25.1,47,15.6,67,60,89.6,Ruta Principal,10.2,64,Alto,Sí
+CAM0342,2025-01-10,Viernes,Laboral,17:15,17:30,15,Soleado,0.0,25.1,47,15.6,70,49,70.0,Ruta Principal,13.5,40,Alto,Sí
+CAM0343,2025-01-10,Viernes,Laboral,17:30,17:49,19,Soleado,0.0,25.1,47,15.6,55,53,96.4,Ruta Principal,15.0,46,Alto,Sí
+CAM0344,2025-01-10,Viernes,Laboral,17:45,18:09,24,Soleado,0.0,25.1,47,15.6,59,40,67.8,Ruta Principal,21.4,66,Alto,Sí
+CAM0345,2025-01-10,Viernes,Laboral,18:00,18:24,24,Soleado,0.0,25.1,47,15.6,64,58,90.6,Ruta Principal,10.2,64,Alto,Sí
+CAM0346,2025-01-10,Viernes,Laboral,18:15,18:24,9,Soleado,0.0,25.1,47,15.6,68,56,82.4,Ruta Principal,21.8,42,Alto,Sí
+CAM0347,2025-01-10,Viernes,Laboral,18:30,18:38,8,Soleado,0.0,25.1,47,15.6,59,40,67.8,Ruta Principal,14.1,53,Alto,Sí
+CAM0348,2025-01-10,Viernes,Laboral,18:45,18:56,11,Soleado,0.0,25.1,47,15.6,72,64,88.9,Ruta Principal,18.8,46,Alto,Sí
+CAM0349,2025-01-10,Viernes,Laboral,19:00,19:12,12,Soleado,0.0,25.1,47,15.6,49,42,85.7,Ruta Principal,16.6,57,Alto,Sí
+CAM0350,2025-01-10,Viernes,Laboral,19:15,19:28,13,Soleado,0.0,25.1,47,15.6,72,67,93.1,Ruta Principal,15.6,53,Alto,Sí
+CAM0351,2025-01-10,Viernes,Laboral,19:30,19:43,13,Soleado,0.0,25.1,47,15.6,52,35,67.3,Ruta Principal,18.6,52,Alto,Sí
+CAM0352,2025-01-10,Viernes,Laboral,19:45,19:54,9,Soleado,0.0,25.1,47,15.6,57,43,75.4,Ruta Principal,10.5,40,Alto,Sí
+CAM0353,2025-01-10,Viernes,Laboral,20:00,20:09,9,Soleado,0.0,25.1,47,15.6,58,46,79.3,Ruta Principal,16.2,51,Alto,Sí
+CAM0354,2025-01-10,Viernes,Laboral,20:15,20:38,23,Soleado,0.0,25.1,47,15.6,56,37,66.1,Ruta Principal,19.0,54,Alto,Sí
+CAM0355,2025-01-10,Viernes,Laboral,20:30,20:47,17,Soleado,0.0,25.1,47,15.6,59,39,66.1,Ruta Principal,20.4,52,Alto,Sí
+CAM0356,2025-01-10,Viernes,Laboral,20:45,21:01,16,Soleado,0.0,25.1,47,15.6,51,44,86.3,Ruta Principal,15.2,53,Alto,Sí
+CAM0357,2025-01-10,Viernes,Laboral,21:00,21:10,10,Soleado,0.0,25.1,47,15.6,60,25,41.7,Ruta Principal,29.6,50,Medio,No
+CAM0358,2025-01-10,Viernes,Laboral,21:15,21:25,10,Soleado,0.0,25.1,47,15.6,59,43,72.9,Ruta Principal,27.0,43,Medio,No
+CAM0359,2025-01-10,Viernes,Laboral,21:30,21:34,4,Soleado,0.0,25.1,47,15.6,71,44,62.0,Ruta Principal,16.2,48,Medio,No
+CAM0360,2025-01-10,Viernes,Laboral,21:45,21:50,5,Soleado,0.0,25.1,47,15.6,65,34,52.3,Ruta Principal,19.8,32,Medio,No
+CAM0361,2025-01-10,Viernes,Laboral,22:00,22:08,8,Soleado,0.0,25.1,47,15.6,69,35,50.7,Ruta Principal,19.6,52,Medio,No
+CAM0362,2025-01-10,Viernes,Laboral,22:15,22:24,9,Soleado,0.0,25.1,47,15.6,53,35,66.0,Ruta Principal,21.7,48,Medio,No
+CAM0363,2025-01-10,Viernes,Laboral,22:30,22:33,3,Soleado,0.0,25.1,47,15.6,71,39,54.9,Ruta Principal,24.2,41,Medio,No
+CAM0364,2025-01-10,Viernes,Laboral,22:45,22:52,7,Soleado,0.0,25.1,47,15.6,68,20,29.4,Ruta Principal,16.1,52,Medio,No
+CAM0365,2025-01-10,Viernes,Laboral,23:00,23:03,3,Soleado,0.0,25.1,47,15.6,59,30,50.8,Ruta Principal,41.0,33,Bajo,No
+CAM0366,2025-01-11,Sábado,Fin de semana,06:00,06:22,22,Soleado,0.0,20.0,78,18.6,49,35,71.4,Ruta Principal,10.8,67,Alto,Sí
+CAM0367,2025-01-11,Sábado,Fin de semana,06:15,06:34,19,Soleado,0.0,20.0,78,18.6,59,50,84.7,Ruta Principal,21.4,45,Alto,Sí
+CAM0368,2025-01-11,Sábado,Fin de semana,06:30,06:42,12,Soleado,0.0,20.0,78,18.6,69,58,84.1,Ruta Principal,21.4,48,Alto,Sí
+CAM0369,2025-01-11,Sábado,Fin de semana,06:45,07:07,22,Soleado,0.0,20.0,78,18.6,72,48,66.7,Ruta Principal,16.9,63,Alto,Sí
+CAM0370,2025-01-11,Sábado,Fin de semana,07:00,07:19,19,Soleado,0.0,20.0,78,18.6,60,49,81.7,Ruta Principal,17.8,51,Alto,Sí
+CAM0371,2025-01-11,Sábado,Fin de semana,07:15,07:26,11,Soleado,0.0,20.0,78,18.6,48,36,75.0,Ruta Principal,16.0,48,Alto,Sí
+CAM0372,2025-01-11,Sábado,Fin de semana,07:30,07:55,25,Soleado,0.0,20.0,78,18.6,51,41,80.4,Ruta Principal,19.3,64,Alto,Sí
+CAM0373,2025-01-11,Sábado,Fin de semana,07:45,07:59,14,Soleado,0.0,20.0,78,18.6,67,52,77.6,Ruta Principal,18.3,54,Alto,Sí
+CAM0374,2025-01-11,Sábado,Fin de semana,08:00,08:14,14,Soleado,0.0,20.0,78,18.6,51,37,72.5,Ruta Principal,20.2,53,Alto,Sí
+CAM0375,2025-01-11,Sábado,Fin de semana,08:15,08:28,13,Soleado,0.0,20.0,78,18.6,70,59,84.3,Ruta Principal,22.0,48,Alto,Sí
+CAM0376,2025-01-11,Sábado,Fin de semana,08:30,08:49,19,Soleado,0.0,20.0,78,18.6,70,47,67.1,Ruta Principal,16.6,53,Alto,Sí
+CAM0377,2025-01-11,Sábado,Fin de semana,08:45,09:02,17,Soleado,0.0,20.0,78,18.6,53,39,73.6,Ruta Principal,19.5,58,Alto,Sí
+CAM0378,2025-01-11,Sábado,Fin de semana,09:00,09:15,15,Soleado,0.0,20.0,78,18.6,51,39,76.5,Ruta Principal,19.5,47,Alto,Sí
+CAM0379,2025-01-11,Sábado,Fin de semana,09:15,09:38,23,Soleado,0.0,20.0,78,18.6,48,42,87.5,Ruta Principal,16.6,59,Alto,Sí
+CAM0380,2025-01-11,Sábado,Fin de semana,09:30,09:52,22,Soleado,0.0,20.0,78,18.6,65,46,70.8,Ruta Principal,17.3,49,Alto,Sí
+CAM0381,2025-01-11,Sábado,Fin de semana,09:45,09:55,10,Soleado,0.0,20.0,78,18.6,57,49,86.0,Ruta Principal,22.0,50,Alto,Sí
+CAM0382,2025-01-11,Sábado,Fin de semana,10:00,10:24,24,Soleado,0.0,20.0,78,18.6,61,52,85.2,Ruta Principal,19.9,51,Alto,Sí
+CAM0383,2025-01-11,Sábado,Fin de semana,10:15,10:27,12,Soleado,0.0,20.0,78,18.6,58,57,98.3,Ruta Principal,10.9,51,Alto,Sí
+CAM0384,2025-01-11,Sábado,Fin de semana,10:30,10:54,24,Soleado,0.0,20.0,78,18.6,59,42,71.2,Ruta Principal,20.5,66,Alto,Sí
+CAM0385,2025-01-11,Sábado,Fin de semana,10:45,10:58,13,Soleado,0.0,20.0,78,18.6,72,50,69.4,Ruta Principal,15.2,39,Alto,Sí
+CAM0386,2025-01-11,Sábado,Fin de semana,11:00,11:04,4,Soleado,0.0,20.0,78,18.6,64,25,39.1,Ruta Principal,19.6,34,Medio,No
+CAM0387,2025-01-11,Sábado,Fin de semana,11:15,11:23,8,Soleado,0.0,20.0,78,18.6,70,31,44.3,Ruta Principal,20.2,49,Medio,No
+CAM0388,2025-01-11,Sábado,Fin de semana,11:30,11:37,7,Soleado,0.0,20.0,78,18.6,50,20,40.0,Ruta Principal,17.9,49,Medio,No
+CAM0389,2025-01-11,Sábado,Fin de semana,11:45,11:52,7,Soleado,0.0,20.0,78,18.6,52,33,63.5,Ruta Principal,19.5,49,Medio,No
+CAM0390,2025-01-11,Sábado,Fin de semana,12:00,12:04,4,Soleado,0.0,20.0,78,18.6,64,26,40.6,Ruta Principal,23.9,47,Medio,No
+CAM0391,2025-01-11,Sábado,Fin de semana,12:15,12:20,5,Soleado,0.0,20.0,78,18.6,53,34,64.2,Ruta Principal,24.4,49,Medio,No
+CAM0392,2025-01-11,Sábado,Fin de semana,12:30,12:38,8,Soleado,0.0,20.0,78,18.6,66,18,27.3,Ruta Principal,27.4,33,Medio,No
+CAM0393,2025-01-11,Sábado,Fin de semana,12:45,12:49,4,Soleado,0.0,20.0,78,18.6,49,32,65.3,Ruta Principal,26.6,37,Medio,No
+CAM0394,2025-01-11,Sábado,Fin de semana,13:00,13:06,6,Soleado,0.0,20.0,78,18.6,72,54,75.0,Ruta Principal,21.2,51,Medio,No
+CAM0395,2025-01-11,Sábado,Fin de semana,13:15,13:18,3,Soleado,0.0,20.0,78,18.6,63,33,52.4,Ruta Principal,24.6,37,Medio,No
+CAM0396,2025-01-11,Sábado,Fin de semana,13:30,13:40,10,Soleado,0.0,20.0,78,18.6,55,38,69.1,Ruta Principal,27.1,47,Medio,No
+CAM0397,2025-01-11,Sábado,Fin de semana,13:45,13:52,7,Soleado,0.0,20.0,78,18.6,62,19,30.6,Ruta Principal,25.3,37,Medio,No
+CAM0398,2025-01-11,Sábado,Fin de semana,14:00,14:10,10,Soleado,0.0,20.0,78,18.6,61,30,49.2,Ruta Principal,22.0,45,Medio,No
+CAM0399,2025-01-11,Sábado,Fin de semana,14:15,14:20,5,Soleado,0.0,20.0,78,18.6,58,41,70.7,Ruta Principal,25.8,41,Medio,No
+CAM0400,2025-01-11,Sábado,Fin de semana,14:30,14:39,9,Soleado,0.0,20.0,78,18.6,52,37,71.2,Ruta Principal,20.6,51,Medio,No
+CAM0401,2025-01-11,Sábado,Fin de semana,14:45,14:49,4,Soleado,0.0,20.0,78,18.6,58,21,36.2,Ruta Principal,22.0,37,Medio,No
+CAM0402,2025-01-11,Sábado,Fin de semana,15:00,15:10,10,Soleado,0.0,20.0,78,18.6,55,17,30.9,Ruta Principal,16.5,44,Medio,No
+CAM0403,2025-01-11,Sábado,Fin de semana,15:15,15:24,9,Soleado,0.0,20.0,78,18.6,67,42,62.7,Ruta Principal,18.7,39,Medio,No
+CAM0404,2025-01-11,Sábado,Fin de semana,15:30,15:38,8,Soleado,0.0,20.0,78,18.6,66,36,54.5,Ruta Principal,17.8,38,Medio,No
+CAM0405,2025-01-11,Sábado,Fin de semana,15:45,15:55,10,Soleado,0.0,20.0,78,18.6,64,45,70.3,Ruta Principal,22.5,44,Medio,No
+CAM0406,2025-01-11,Sábado,Fin de semana,16:00,16:23,23,Soleado,0.0,20.0,78,18.6,48,33,68.8,Ruta Principal,21.3,64,Alto,Sí
+CAM0407,2025-01-11,Sábado,Fin de semana,16:15,16:37,22,Soleado,0.0,20.0,78,18.6,55,41,74.5,Ruta Principal,17.0,48,Alto,Sí
+CAM0408,2025-01-11,Sábado,Fin de semana,16:30,16:39,9,Soleado,0.0,20.0,78,18.6,57,52,91.2,Ruta Principal,17.2,54,Alto,Sí
+CAM0409,2025-01-11,Sábado,Fin de semana,16:45,17:08,23,Soleado,0.0,20.0,78,18.6,57,54,94.7,Ruta Principal,10.1,51,Alto,Sí
+CAM0410,2025-01-11,Sábado,Fin de semana,17:00,17:21,21,Soleado,0.0,20.0,78,18.6,52,41,78.8,Ruta Principal,18.7,58,Alto,Sí
+CAM0411,2025-01-11,Sábado,Fin de semana,17:15,17:34,19,Soleado,0.0,20.0,78,18.6,49,43,87.8,Ruta Principal,10.6,61,Alto,Sí
+CAM0412,2025-01-11,Sábado,Fin de semana,17:30,17:44,14,Soleado,0.0,20.0,78,18.6,59,55,93.2,Ruta Principal,13.5,51,Alto,Sí
+CAM0413,2025-01-11,Sábado,Fin de semana,17:45,18:09,24,Soleado,0.0,20.0,78,18.6,62,57,91.9,Ruta Principal,13.4,68,Alto,Sí
+CAM0414,2025-01-11,Sábado,Fin de semana,18:00,18:11,11,Soleado,0.0,20.0,78,18.6,52,36,69.2,Ruta Principal,14.7,46,Alto,Sí
+CAM0415,2025-01-11,Sábado,Fin de semana,18:15,18:40,25,Soleado,0.0,20.0,78,18.6,59,42,71.2,Ruta Principal,12.4,66,Alto,Sí
+CAM0416,2025-01-11,Sábado,Fin de semana,18:30,18:50,20,Soleado,0.0,20.0,78,18.6,64,42,65.6,Ruta Principal,10.5,49,Alto,Sí
+CAM0417,2025-01-11,Sábado,Fin de semana,18:45,19:03,18,Soleado,0.0,20.0,78,18.6,63,56,88.9,Ruta Principal,15.5,62,Alto,Sí
+CAM0418,2025-01-11,Sábado,Fin de semana,19:00,19:24,24,Soleado,0.0,20.0,78,18.6,52,43,82.7,Ruta Principal,21.2,59,Alto,Sí
+CAM0419,2025-01-11,Sábado,Fin de semana,19:15,19:28,13,Soleado,0.0,20.0,78,18.6,60,58,96.7,Ruta Principal,18.9,47,Alto,Sí
+CAM0420,2025-01-11,Sábado,Fin de semana,19:30,19:48,18,Soleado,0.0,20.0,78,18.6,64,57,89.1,Ruta Principal,16.4,61,Alto,Sí
+CAM0421,2025-01-11,Sábado,Fin de semana,19:45,20:02,17,Soleado,0.0,20.0,78,18.6,63,40,63.5,Ruta Principal,14.4,45,Alto,Sí
+CAM0422,2025-01-11,Sábado,Fin de semana,20:00,20:21,21,Soleado,0.0,20.0,78,18.6,66,51,77.3,Ruta Principal,19.6,66,Alto,Sí
+CAM0423,2025-01-11,Sábado,Fin de semana,20:15,20:23,8,Soleado,0.0,20.0,78,18.6,67,58,86.6,Ruta Principal,13.2,53,Alto,Sí
+CAM0424,2025-01-11,Sábado,Fin de semana,20:30,20:45,15,Soleado,0.0,20.0,78,18.6,71,47,66.2,Ruta Principal,17.0,45,Alto,Sí
+CAM0425,2025-01-11,Sábado,Fin de semana,20:45,21:09,24,Soleado,0.0,20.0,78,18.6,68,67,98.5,Ruta Principal,17.4,61,Alto,Sí
+CAM0426,2025-01-11,Sábado,Fin de semana,21:00,21:05,5,Soleado,0.0,20.0,78,18.6,69,32,46.4,Ruta Principal,15.5,33,Medio,No
+CAM0427,2025-01-11,Sábado,Fin de semana,21:15,21:21,6,Soleado,0.0,20.0,78,18.6,48,26,54.2,Ruta Principal,19.7,35,Medio,No
+CAM0428,2025-01-11,Sábado,Fin de semana,21:30,21:39,9,Soleado,0.0,20.0,78,18.6,70,30,42.9,Ruta Principal,21.2,53,Medio,No
+CAM0429,2025-01-11,Sábado,Fin de semana,21:45,21:55,10,Soleado,0.0,20.0,78,18.6,71,20,28.2,Ruta Principal,25.6,51,Medio,No
+CAM0430,2025-01-11,Sábado,Fin de semana,22:00,22:06,6,Soleado,0.0,20.0,78,18.6,65,36,55.4,Ruta Principal,30.0,46,Medio,No
+CAM0431,2025-01-12,Domingo,Fin de semana,06:00,06:25,25,Parcialmente nublado,3.0,22.4,51,14.2,58,54,93.1,Ruta Principal,14.3,70,Alto,Sí
+CAM0432,2025-01-12,Domingo,Fin de semana,06:15,06:31,16,Parcialmente nublado,3.0,22.4,51,14.2,67,58,86.6,Ruta Principal,12.3,48,Alto,Sí
+CAM0433,2025-01-12,Domingo,Fin de semana,06:30,06:46,16,Parcialmente nublado,3.0,22.4,51,14.2,65,51,78.5,Ruta Principal,12.7,50,Alto,Sí
+CAM0434,2025-01-12,Domingo,Fin de semana,06:45,07:02,17,Parcialmente nublado,3.0,22.4,51,14.2,70,51,72.9,Ruta Principal,18.3,57,Alto,Sí
+CAM0435,2025-01-12,Domingo,Fin de semana,07:00,07:18,18,Parcialmente nublado,3.0,22.4,51,14.2,63,51,81.0,Ruta Principal,16.7,51,Alto,Sí
+CAM0436,2025-01-12,Domingo,Fin de semana,07:15,07:32,17,Parcialmente nublado,3.0,22.4,51,14.2,51,51,100.0,Ruta Principal,18.1,54,Alto,Sí
+CAM0437,2025-01-12,Domingo,Fin de semana,07:30,07:50,20,Parcialmente nublado,3.0,22.4,51,14.2,59,42,71.2,Ruta Principal,13.5,54,Alto,Sí
+CAM0438,2025-01-12,Domingo,Fin de semana,07:45,07:55,10,Parcialmente nublado,3.0,22.4,51,14.2,59,52,88.1,Ruta Principal,17.9,50,Alto,Sí
+CAM0439,2025-01-12,Domingo,Fin de semana,08:00,08:14,14,Parcialmente nublado,3.0,22.4,51,14.2,54,52,96.3,Ruta Principal,13.3,56,Alto,Sí
+CAM0440,2025-01-12,Domingo,Fin de semana,08:15,08:31,16,Parcialmente nublado,3.0,22.4,51,14.2,52,36,69.2,Ruta Principal,17.4,59,Alto,Sí
+CAM0441,2025-01-12,Domingo,Fin de semana,08:30,08:45,15,Parcialmente nublado,3.0,22.4,51,14.2,55,36,65.5,Ruta Principal,18.0,56,Alto,Sí
+CAM0442,2025-01-12,Domingo,Fin de semana,08:45,09:00,15,Parcialmente nublado,3.0,22.4,51,14.2,68,51,75.0,Ruta Principal,10.6,53,Alto,Sí
+CAM0443,2025-01-12,Domingo,Fin de semana,09:00,09:18,18,Parcialmente nublado,3.0,22.4,51,14.2,70,60,85.7,Ruta Principal,11.2,47,Alto,Sí
+CAM0444,2025-01-12,Domingo,Fin de semana,09:15,09:23,8,Parcialmente nublado,3.0,22.4,51,14.2,65,47,72.3,Ruta Principal,14.9,48,Alto,Sí
+CAM0445,2025-01-12,Domingo,Fin de semana,09:30,09:53,23,Parcialmente nublado,3.0,22.4,51,14.2,68,50,73.5,Ruta Principal,19.1,57,Alto,Sí
+CAM0446,2025-01-12,Domingo,Fin de semana,09:45,10:03,18,Parcialmente nublado,3.0,22.4,51,14.2,57,57,100.0,Ruta Principal,10.7,45,Alto,Sí
+CAM0447,2025-01-12,Domingo,Fin de semana,10:00,10:15,15,Parcialmente nublado,3.0,22.4,51,14.2,65,65,100.0,Ruta Principal,18.7,41,Alto,Sí
+CAM0448,2025-01-12,Domingo,Fin de semana,10:15,10:28,13,Parcialmente nublado,3.0,22.4,51,14.2,61,44,72.1,Ruta Principal,21.2,39,Alto,Sí
+CAM0449,2025-01-12,Domingo,Fin de semana,10:30,10:50,20,Parcialmente nublado,3.0,22.4,51,14.2,63,45,71.4,Ruta Principal,21.2,54,Alto,Sí
+CAM0450,2025-01-12,Domingo,Fin de semana,10:45,10:54,9,Parcialmente nublado,3.0,22.4,51,14.2,48,40,83.3,Ruta Principal,16.8,37,Alto,Sí
+CAM0451,2025-01-12,Domingo,Fin de semana,11:00,11:08,8,Parcialmente nublado,3.0,22.4,51,14.2,57,28,49.1,Ruta Principal,29.8,50,Medio,No
+CAM0452,2025-01-12,Domingo,Fin de semana,11:15,11:25,10,Parcialmente nublado,3.0,22.4,51,14.2,52,29,55.8,Ruta Principal,22.0,41,Medio,No
+CAM0453,2025-01-12,Domingo,Fin de semana,11:30,11:34,4,Parcialmente nublado,3.0,22.4,51,14.2,58,19,32.8,Ruta Principal,26.0,49,Medio,No
+CAM0454,2025-01-12,Domingo,Fin de semana,11:45,11:52,7,Parcialmente nublado,3.0,22.4,51,14.2,70,28,40.0,Ruta Principal,15.2,42,Medio,No
+CAM0455,2025-01-12,Domingo,Fin de semana,12:00,12:07,7,Parcialmente nublado,3.0,22.4,51,14.2,66,28,42.4,Ruta Principal,17.6,52,Medio,No
+CAM0456,2025-01-12,Domingo,Fin de semana,12:15,12:24,9,Parcialmente nublado,3.0,22.4,51,14.2,61,31,50.8,Ruta Principal,19.9,46,Medio,No
+CAM0457,2025-01-12,Domingo,Fin de semana,12:30,12:34,4,Parcialmente nublado,3.0,22.4,51,14.2,53,17,32.1,Ruta Principal,22.2,36,Medio,No
+CAM0458,2025-01-12,Domingo,Fin de semana,12:45,12:48,3,Parcialmente nublado,3.0,22.4,51,14.2,56,26,46.4,Ruta Principal,18.5,36,Medio,No
+CAM0459,2025-01-12,Domingo,Fin de semana,13:00,13:08,8,Parcialmente nublado,3.0,22.4,51,14.2,57,32,56.1,Ruta Principal,25.8,33,Medio,No
+CAM0460,2025-01-12,Domingo,Fin de semana,13:15,13:22,7,Parcialmente nublado,3.0,22.4,51,14.2,68,40,58.8,Ruta Principal,25.4,33,Medio,No
+CAM0461,2025-01-12,Domingo,Fin de semana,13:30,13:34,4,Parcialmente nublado,3.0,22.4,51,14.2,62,34,54.8,Ruta Principal,17.4,45,Medio,No
+CAM0462,2025-01-12,Domingo,Fin de semana,13:45,13:52,7,Parcialmente nublado,3.0,22.4,51,14.2,70,24,34.3,Ruta Principal,24.6,41,Medio,No
+CAM0463,2025-01-12,Domingo,Fin de semana,14:00,14:08,8,Parcialmente nublado,3.0,22.4,51,14.2,67,30,44.8,Ruta Principal,18.3,37,Medio,No
+CAM0464,2025-01-12,Domingo,Fin de semana,14:15,14:25,10,Parcialmente nublado,3.0,22.4,51,14.2,52,27,51.9,Ruta Principal,26.2,54,Medio,No
+CAM0465,2025-01-12,Domingo,Fin de semana,14:30,14:38,8,Parcialmente nublado,3.0,22.4,51,14.2,61,37,60.7,Ruta Principal,23.2,48,Medio,No
+CAM0466,2025-01-12,Domingo,Fin de semana,14:45,14:51,6,Parcialmente nublado,3.0,22.4,51,14.2,72,33,45.8,Ruta Principal,25.2,50,Medio,No
+CAM0467,2025-01-12,Domingo,Fin de semana,15:00,15:04,4,Parcialmente nublado,3.0,22.4,51,14.2,64,44,68.8,Ruta Principal,22.9,40,Medio,No
+CAM0468,2025-01-12,Domingo,Fin de semana,15:15,15:19,4,Parcialmente nublado,3.0,22.4,51,14.2,66,23,34.8,Ruta Principal,15.9,46,Medio,No
+CAM0469,2025-01-12,Domingo,Fin de semana,15:30,15:36,6,Parcialmente nublado,3.0,22.4,51,14.2,66,25,37.9,Ruta Principal,17.5,47,Medio,No
+CAM0470,2025-01-12,Domingo,Fin de semana,15:45,15:55,10,Parcialmente nublado,3.0,22.4,51,14.2,51,33,64.7,Ruta Principal,18.1,53,Medio,No
+CAM0471,2025-01-12,Domingo,Fin de semana,16:00,16:23,23,Parcialmente nublado,3.0,22.4,51,14.2,50,48,96.0,Ruta Principal,15.3,49,Alto,Sí
+CAM0472,2025-01-12,Domingo,Fin de semana,16:15,16:37,22,Parcialmente nublado,3.0,22.4,51,14.2,52,49,94.2,Ruta Principal,15.0,65,Alto,Sí
+CAM0473,2025-01-12,Domingo,Fin de semana,16:30,16:39,9,Parcialmente nublado,3.0,22.4,51,14.2,65,56,86.2,Ruta Principal,18.1,43,Alto,Sí
+CAM0474,2025-01-12,Domingo,Fin de semana,16:45,16:53,8,Parcialmente nublado,3.0,22.4,51,14.2,60,47,78.3,Ruta Principal,19.8,39,Alto,Sí
+CAM0475,2025-01-12,Domingo,Fin de semana,17:00,17:10,10,Parcialmente nublado,3.0,22.4,51,14.2,49,44,89.8,Ruta Principal,14.1,37,Alto,Sí
+CAM0476,2025-01-12,Domingo,Fin de semana,17:15,17:40,25,Parcialmente nublado,3.0,22.4,51,14.2,49,33,67.3,Ruta Principal,21.8,65,Alto,Sí
+CAM0477,2025-01-12,Domingo,Fin de semana,17:30,17:39,9,Parcialmente nublado,3.0,22.4,51,14.2,57,50,87.7,Ruta Principal,12.2,38,Alto,Sí
+CAM0478,2025-01-12,Domingo,Fin de semana,17:45,18:06,21,Parcialmente nublado,3.0,22.4,51,14.2,59,50,84.7,Ruta Principal,15.4,58,Alto,Sí
+CAM0479,2025-01-12,Domingo,Fin de semana,18:00,18:20,20,Parcialmente nublado,3.0,22.4,51,14.2,50,49,98.0,Ruta Principal,11.6,56,Alto,Sí
+CAM0480,2025-01-12,Domingo,Fin de semana,18:15,18:26,11,Parcialmente nublado,3.0,22.4,51,14.2,53,51,96.2,Ruta Principal,14.7,40,Alto,Sí
+CAM0481,2025-01-12,Domingo,Fin de semana,18:30,18:45,15,Parcialmente nublado,3.0,22.4,51,14.2,48,31,64.6,Ruta Principal,21.7,54,Alto,Sí
+CAM0482,2025-01-12,Domingo,Fin de semana,18:45,19:10,25,Parcialmente nublado,3.0,22.4,51,14.2,61,56,91.8,Ruta Principal,14.6,57,Alto,Sí
+CAM0483,2025-01-12,Domingo,Fin de semana,19:00,19:15,15,Parcialmente nublado,3.0,22.4,51,14.2,62,51,82.3,Ruta Principal,11.9,46,Alto,Sí
+CAM0484,2025-01-12,Domingo,Fin de semana,19:15,19:26,11,Parcialmente nublado,3.0,22.4,51,14.2,49,44,89.8,Ruta Principal,17.4,36,Alto,Sí
+CAM0485,2025-01-12,Domingo,Fin de semana,19:30,19:45,15,Parcialmente nublado,3.0,22.4,51,14.2,54,37,68.5,Ruta Principal,11.2,41,Alto,Sí
+CAM0486,2025-01-12,Domingo,Fin de semana,19:45,20:07,22,Parcialmente nublado,3.0,22.4,51,14.2,67,64,95.5,Ruta Principal,18.4,48,Alto,Sí
+CAM0487,2025-01-12,Domingo,Fin de semana,20:00,20:15,15,Parcialmente nublado,3.0,22.4,51,14.2,71,47,66.2,Ruta Principal,14.8,47,Alto,Sí
+CAM0488,2025-01-12,Domingo,Fin de semana,20:15,20:40,25,Parcialmente nublado,3.0,22.4,51,14.2,54,36,66.7,Ruta Principal,11.7,59,Alto,Sí
+CAM0489,2025-01-12,Domingo,Fin de semana,20:30,20:45,15,Parcialmente nublado,3.0,22.4,51,14.2,71,64,90.1,Ruta Principal,13.8,59,Alto,Sí
+CAM0490,2025-01-12,Domingo,Fin de semana,20:45,21:03,18,Parcialmente nublado,3.0,22.4,51,14.2,55,44,80.0,Ruta Principal,20.5,59,Alto,Sí
+CAM0491,2025-01-12,Domingo,Fin de semana,21:00,21:06,6,Parcialmente nublado,3.0,22.4,51,14.2,61,24,39.3,Ruta Principal,19.1,48,Medio,No
+CAM0492,2025-01-12,Domingo,Fin de semana,21:15,21:20,5,Parcialmente nublado,3.0,22.4,51,14.2,68,44,64.7,Ruta Principal,23.3,31,Medio,No
+CAM0493,2025-01-12,Domingo,Fin de semana,21:30,21:38,8,Parcialmente nublado,3.0,22.4,51,14.2,68,41,60.3,Ruta Principal,26.8,43,Medio,No
+CAM0494,2025-01-12,Domingo,Fin de semana,21:45,21:54,9,Parcialmente nublado,3.0,22.4,51,14.2,61,19,31.1,Ruta Principal,19.5,39,Medio,No
+CAM0495,2025-01-12,Domingo,Fin de semana,22:00,22:10,10,Parcialmente nublado,3.0,22.4,51,14.2,55,40,72.7,Ruta Principal,18.4,39,Medio,No
